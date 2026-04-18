@@ -1,0 +1,158 @@
+{
+  "standings": [
+    {
+      "position": "1",
+      "points": "25",
+      "wins": "1",
+      "Driver": { "givenName": "Nikola", "familyName": "Tsolov" },
+      "Constructors": [{ "name": "Campos Racing" }]
+    },
+    {
+      "position": "2",
+      "points": "18",
+      "wins": "0",
+      "Driver": { "givenName": "Rafael", "familyName": "Câmara" },
+      "Constructors": [{ "name": "Invicta Racing" }]
+    },
+    {
+      "position": "3",
+      "points": "18",
+      "wins": "0",
+      "Driver": { "givenName": "Laurens", "familyName": "van Hoepen" },
+      "Constructors": [{ "name": "Trident" }]
+    },
+    {
+      "position": "4",
+      "points": "14",
+      "wins": "0",
+      "Driver": { "givenName": "Ritomo", "familyName": "Miyata" },
+      "Constructors": [{ "name": "Hitech" }]
+    },
+    {
+      "position": "5",
+      "points": "13",
+      "wins": "0",
+      "Driver": { "givenName": "Tasanapol", "familyName": "Inthraphuvasak" },
+      "Constructors": [{ "name": "ART Grand Prix" }]
+    },
+    {
+      "position": "6",
+      "points": "12",
+      "wins": "0",
+      "Driver": { "givenName": "Oliver", "familyName": "Goethe" },
+      "Constructors": [{ "name": "MP Motorsport" }]
+    },
+    {
+      "position": "7",
+      "points": "11",
+      "wins": "1",
+      "Driver": { "givenName": "Joshua", "familyName": "Dürksen" },
+      "Constructors": [{ "name": "Invicta Racing" }]
+    },
+    {
+      "position": "8",
+      "points": "8",
+      "wins": "0",
+      "Driver": { "givenName": "Noel", "familyName": "León" },
+      "Constructors": [{ "name": "Campos Racing" }]
+    },
+    {
+      "position": "9",
+      "points": "7",
+      "wins": "0",
+      "Driver": { "givenName": "Gabriele", "familyName": "Minì" },
+      "Constructors": [{ "name": "MP Motorsport" }]
+    },
+    {
+      "position": "10",
+      "points": "6",
+      "wins": "0",
+      "Driver": { "givenName": "Alex", "familyName": "Dunne" },
+      "Constructors": [{ "name": "Rodin Motorsport" }]
+    },
+    {
+      "position": "11",
+      "points": "6",
+      "wins": "0",
+      "Driver": { "givenName": "Colton", "familyName": "Herta" },
+      "Constructors": [{ "name": "Hitech" }]
+    },
+    {
+      "position": "12",
+      "points": "2",
+      "wins": "0",
+      "Driver": { "givenName": "Sebastián", "familyName": "Montoya" },
+      "Constructors": [{ "name": "Prema Racing" }]
+    },
+    {
+      "position": "13",
+      "points": "2",
+      "wins": "0",
+      "Driver": { "givenName": "Dino", "familyName": "Beganovic" },
+      "Constructors": [{ "name": "DAMS Lucas Oil" }]
+    },
+    {
+      "position": "14",
+      "points": "1",
+      "wins": "0",
+      "Driver": { "givenName": "Roman", "familyName": "Bilinski" },
+      "Constructors": [{ "name": "DAMS Lucas Oil" }]
+    },
+    {
+      "position": "15",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Martinius", "familyName": "Stenshorne" },
+      "Constructors": [{ "name": "Rodin Motorsport" }]
+    },
+    {
+      "position": "16",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Rafael", "familyName": "Villagómez" },
+      "Constructors": [{ "name": "Van Amersfoort Racing" }]
+    },
+    {
+      "position": "17",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Kush", "familyName": "Maini" },
+      "Constructors": [{ "name": "ART Grand Prix" }]
+    },
+    {
+      "position": "18",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Mari", "familyName": "Boya" },
+      "Constructors": [{ "name": "Prema Racing" }]
+    },
+    {
+      "position": "19",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Emerson", "familyName": "Fittipaldi Jr." },
+      "Constructors": [{ "name": "AIX Racing" }]
+    },
+    {
+      "position": "20",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "John", "familyName": "Bennett" },
+      "Constructors": [{ "name": "Trident" }]
+    },
+    {
+      "position": "21",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Nico", "familyName": "Varrone" },
+      "Constructors": [{ "name": "Van Amersfoort Racing" }]
+    },
+    {
+      "position": "22",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Cian", "familyName": "Shields" },
+      "Constructors": [{ "name": "AIX Racing" }]
+    }
+  ]
+}
