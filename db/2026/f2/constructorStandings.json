@@ -1,0 +1,70 @@
+{
+  "standings": [
+    {
+      "position": "1",
+      "points": "33",
+      "wins": "1",
+      "Constructor": { "name": "Campos Racing", "constructorId": "campos" }
+    },
+    {
+      "position": "2",
+      "points": "29",
+      "wins": "1",
+      "Constructor": { "name": "Invicta Racing", "constructorId": "invicta" }
+    },
+    {
+      "position": "3",
+      "points": "20",
+      "wins": "0",
+      "Constructor": { "name": "Hitech", "constructorId": "hitech" }
+    },
+    {
+      "position": "4",
+      "points": "19",
+      "wins": "0",
+      "Constructor": { "name": "MP Motorsport", "constructorId": "mp_motorsport" }
+    },
+    {
+      "position": "5",
+      "points": "18",
+      "wins": "0",
+      "Constructor": { "name": "Trident", "constructorId": "trident" }
+    },
+    {
+      "position": "6",
+      "points": "13",
+      "wins": "0",
+      "Constructor": { "name": "ART Grand Prix", "constructorId": "art_grand_prix" }
+    },
+    {
+      "position": "7",
+      "points": "7",
+      "wins": "0",
+      "Constructor": { "name": "Rodin Motorsport", "constructorId": "rodin" }
+    },
+    {
+      "position": "8",
+      "points": "3",
+      "wins": "0",
+      "Constructor": { "name": "DAMS Lucas Oil", "constructorId": "dams" }
+    },
+    {
+      "position": "9",
+      "points": "2",
+      "wins": "0",
+      "Constructor": { "name": "Prema Racing", "constructorId": "prema" }
+    },
+    {
+      "position": "10",
+      "points": "0",
+      "wins": "0",
+      "Constructor": { "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }
+    },
+    {
+      "position": "11",
+      "points": "0",
+      "wins": "0",
+      "Constructor": { "name": "AIX Racing", "constructorId": "aix" }
+    }
+  ]
+}
