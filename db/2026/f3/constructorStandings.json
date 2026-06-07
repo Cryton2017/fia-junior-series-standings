@@ -2,55 +2,55 @@
   "standings": [
     {
       "position": "1",
+      "points": "61",
+      "wins": "1",
+      "Constructor": { "name": "Campos Racing", "constructorId": "campos" }
+    },
+    {
+      "position": "2",
+      "points": "44",
+      "wins": "1",
+      "Constructor": { "name": "Rodin Motorsport", "constructorId": "rodin" }
+    },
+    {
+      "position": "3",
+      "points": "41",
+      "wins": "0",
+      "Constructor": { "name": "Trident", "constructorId": "trident" }
+    },
+    {
+      "position": "4",
       "points": "39",
       "wins": "1",
       "Constructor": { "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }
     },
     {
-      "position": "2",
-      "points": "32",
-      "wins": "1",
-      "Constructor": { "name": "Campos Racing", "constructorId": "campos" }
-    },
-    {
-      "position": "3",
-      "points": "31",
+      "position": "5",
+      "points": "33",
       "wins": "0",
       "Constructor": { "name": "ART Grand Prix", "constructorId": "art_grand_prix" }
     },
     {
-      "position": "4",
-      "points": "26",
-      "wins": "0",
-      "Constructor": { "name": "Trident", "constructorId": "trident" }
-    },
-    {
-      "position": "5",
-      "points": "15",
-      "wins": "0",
-      "Constructor": { "name": "Rodin Motorsport", "constructorId": "rodin" }
-    },
-    {
       "position": "6",
-      "points": "10",
+      "points": "14",
       "wins": "1",
       "Constructor": { "name": "DAMS Lucas Oil", "constructorId": "dams" }
     },
     {
       "position": "7",
-      "points": "8",
+      "points": "14",
       "wins": "0",
       "Constructor": { "name": "MP Motorsport", "constructorId": "mp_motorsport" }
     },
     {
       "position": "8",
-      "points": "6",
+      "points": "7",
       "wins": "0",
       "Constructor": { "name": "AIX Racing", "constructorId": "aix" }
     },
     {
       "position": "9",
-      "points": "6",
+      "points": "7",
       "wins": "0",
       "Constructor": { "name": "Hitech", "constructorId": "hitech" }
     },

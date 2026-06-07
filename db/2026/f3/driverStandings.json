@@ -2,213 +2,213 @@
   "standings": [
     {
       "position": "1",
-      "points": "30",
+      "points": "34",
       "wins": "1",
       "Driver": { "givenName": "Ugo", "familyName": "Ugochukwu" },
       "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
     },
     {
       "position": "2",
-      "points": "27",
+      "points": "33",
       "wins": "1",
       "Driver": { "givenName": "Bruno", "familyName": "del Pino" },
       "Constructors": [{ "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }]
     },
     {
       "position": "3",
-      "points": "18",
+      "points": "33",
       "wins": "0",
       "Driver": { "givenName": "Freddie", "familyName": "Slater" },
       "Constructors": [{ "name": "Trident", "constructorId": "trident" }]
     },
     {
       "position": "4",
-      "points": "16",
+      "points": "28",
+      "wins": "1",
+      "Driver": { "givenName": "Brando", "familyName": "Badoer" },
+      "Constructors": [{ "name": "Rodin Motorsport", "constructorId": "rodin" }]
+    },
+    {
+      "position": "5",
+      "points": "28",
       "wins": "0",
       "Driver": { "givenName": "Taito", "familyName": "Kato" },
       "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
     },
     {
-      "position": "5",
-      "points": "13",
-      "wins": "0",
-      "Driver": { "givenName": "Maciej", "familyName": "Gładysz" },
-      "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
-    },
-    {
       "position": "6",
-      "points": "12",
+      "points": "25",
       "wins": "0",
       "Driver": { "givenName": "Enzo", "familyName": "Deligny" },
       "Constructors": [{ "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }]
     },
     {
       "position": "7",
-      "points": "12",
+      "points": "17",
+      "wins": "0",
+      "Driver": { "givenName": "Théophile", "familyName": "Naël" },
+      "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
+    },
+    {
+      "position": "8",
+      "points": "16",
+      "wins": "0",
+      "Driver": { "givenName": "Maciej", "familyName": "Gładysz" },
+      "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
+    },
+    {
+      "position": "9",
+      "points": "14",
       "wins": "0",
       "Driver": { "givenName": "Pedro", "familyName": "Clerot" },
       "Constructors": [{ "name": "Rodin Motorsport", "constructorId": "rodin" }]
     },
     {
-      "position": "8",
+      "position": "10",
       "points": "10",
       "wins": "1",
       "Driver": { "givenName": "Gerrard", "familyName": "Xie" },
       "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
     },
     {
-      "position": "9",
-      "points": "8",
+      "position": "11",
+      "points": "10",
       "wins": "0",
       "Driver": { "givenName": "Noah", "familyName": "Strømsted" },
       "Constructors": [{ "name": "Trident", "constructorId": "trident" }]
     },
     {
-      "position": "10",
+      "position": "12",
       "points": "7",
       "wins": "0",
       "Driver": { "givenName": "Alessandro", "familyName": "Giusti" },
       "Constructors": [{ "name": "MP Motorsport", "constructorId": "mp_motorsport" }]
     },
     {
-      "position": "11",
+      "position": "13",
       "points": "6",
       "wins": "0",
       "Driver": { "givenName": "Brad", "familyName": "Benavides" },
       "Constructors": [{ "name": "AIX Racing", "constructorId": "aix" }]
     },
     {
-      "position": "12",
+      "position": "14",
       "points": "6",
       "wins": "0",
       "Driver": { "givenName": "Jin", "familyName": "Nakamura" },
       "Constructors": [{ "name": "Hitech", "constructorId": "hitech" }]
     },
     {
-      "position": "13",
-      "points": "3",
-      "wins": "0",
-      "Driver": { "givenName": "Brando", "familyName": "Badoer" },
-      "Constructors": [{ "name": "Rodin Motorsport", "constructorId": "rodin" }]
-    },
-    {
-      "position": "14",
-      "points": "2",
-      "wins": "0",
-      "Driver": { "givenName": "Kanato", "familyName": "Le" },
-      "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
-    },
-    {
       "position": "15",
-      "points": "2",
-      "wins": "0",
-      "Driver": { "givenName": "Théophile", "familyName": "Naël" },
-      "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
-    },
-    {
-      "position": "16",
       "points": "1",
       "wins": "0",
       "Driver": { "givenName": "José", "familyName": "Garfias" },
       "Constructors": [{ "name": "Prema Racing", "constructorId": "prema" }]
     },
     {
-      "position": "17",
+      "position": "16",
       "points": "1",
       "wins": "0",
       "Driver": { "givenName": "Mattia", "familyName": "Colnaghi" },
       "Constructors": [{ "name": "MP Motorsport", "constructorId": "mp_motorsport" }]
     },
     {
-      "position": "18",
+      "position": "17",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "James", "familyName": "Wharton" },
       "Constructors": [{ "name": "Prema Racing", "constructorId": "prema" }]
     },
     {
-      "position": "19",
+      "position": "18",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Hiyu", "familyName": "Yamakoshi" },
       "Constructors": [{ "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }]
     },
     {
-      "position": "20",
+      "position": "19",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Nicola", "familyName": "Lacorte" },
       "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
     },
     {
-      "position": "21",
+      "position": "20",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Tuukka", "familyName": "Taponen" },
       "Constructors": [{ "name": "MP Motorsport", "constructorId": "mp_motorsport" }]
     },
     {
-      "position": "22",
+      "position": "21",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Fionn", "familyName": "McLaughlin" },
       "Constructors": [{ "name": "Hitech", "constructorId": "hitech" }]
     },
     {
-      "position": "23",
+      "position": "22",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Louis", "familyName": "Sharp" },
       "Constructors": [{ "name": "Prema Racing", "constructorId": "prema" }]
     },
     {
-      "position": "24",
+      "position": "23",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Ernesto", "familyName": "Rivera" },
       "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
     },
     {
-      "position": "25",
+      "position": "24",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Christian", "familyName": "Ho" },
       "Constructors": [{ "name": "Rodin Motorsport", "constructorId": "rodin" }]
     },
     {
-      "position": "26",
+      "position": "25",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Fernando", "familyName": "Barrichello" },
       "Constructors": [{ "name": "AIX Racing", "constructorId": "aix" }]
     },
     {
-      "position": "27",
+      "position": "26",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Yevan", "familyName": "David" },
       "Constructors": [{ "name": "AIX Racing", "constructorId": "aix" }]
     },
     {
-      "position": "28",
+      "position": "27",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Matteo", "familyName": "De Palo" },
       "Constructors": [{ "name": "Trident", "constructorId": "trident" }]
     },
     {
-      "position": "29",
+      "position": "28",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Michael", "familyName": "Shin" },
       "Constructors": [{ "name": "Hitech", "constructorId": "hitech" }]
     },
     {
-      "position": "30",
+      "position": "29",
       "points": "0",
       "wins": "0",
       "Driver": { "givenName": "Nandhavud", "familyName": "Bhirombhakdi" },
       "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
+    },
+    {
+      "position": "30",
+      "points": "0",
+      "wins": "0",
+      "Driver": { "givenName": "Patrick", "familyName": "Heuzenroeder" },
+      "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
     }
   ]
 }
