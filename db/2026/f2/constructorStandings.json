@@ -2,25 +2,25 @@
   "standings": [
     {
       "position": "1",
-      "points": "69",
+      "points": "78",
+      "wins": "4",
+      "Constructor": { "name": "Campos Racing", "constructorId": "campos" }
+    },
+    {
+      "position": "2",
+      "points": "75",
       "wins": "1",
       "Constructor": { "name": "MP Motorsport", "constructorId": "mp_motorsport" }
     },
     {
-      "position": "2",
-      "points": "68",
-      "wins": "3",
-      "Constructor": { "name": "Campos Racing", "constructorId": "campos" }
-    },
-    {
       "position": "3",
-      "points": "65",
+      "points": "68",
       "wins": "1",
       "Constructor": { "name": "Rodin Motorsport", "constructorId": "rodin" }
     },
     {
       "position": "4",
-      "points": "52",
+      "points": "58",
       "wins": "1",
       "Constructor": { "name": "Invicta Racing", "constructorId": "invicta" }
     },
@@ -32,21 +32,21 @@
     },
     {
       "position": "6",
+      "points": "38",
+      "wins": "0",
+      "Constructor": { "name": "DAMS Lucas Oil", "constructorId": "dams" }
+    },
+    {
+      "position": "7",
       "points": "33",
       "wins": "0",
       "Constructor": { "name": "Trident", "constructorId": "trident" }
     },
     {
-      "position": "7",
-      "points": "27",
+      "position": "8",
+      "points": "29",
       "wins": "0",
       "Constructor": { "name": "ART Grand Prix", "constructorId": "art_grand_prix" }
-    },
-    {
-      "position": "8",
-      "points": "26",
-      "wins": "0",
-      "Constructor": { "name": "DAMS Lucas Oil", "constructorId": "dams" }
     },
     {
       "position": "9",

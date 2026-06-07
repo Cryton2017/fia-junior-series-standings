@@ -2,37 +2,37 @@
   "standings": [
     {
       "position": "1",
-      "points": "57",
+      "points": "63",
       "wins": "1",
       "Driver": { "givenName": "Gabriele", "familyName": "Minì" },
       "Constructors": [{ "name": "MP Motorsport", "constructorId": "mp_motorsport" }]
     },
     {
       "position": "2",
-      "points": "36",
-      "wins": "0",
-      "Driver": { "givenName": "Rafael", "familyName": "Câmara" },
-      "Constructors": [{ "name": "Invicta Racing", "constructorId": "invicta" }]
-    },
-    {
-      "position": "3",
-      "points": "35",
+      "points": "43",
       "wins": "2",
-      "Driver": { "givenName": "Nikola", "familyName": "Tsolov" },
+      "Driver": { "givenName": "Noel", "familyName": "León" },
       "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
     },
     {
-      "position": "4",
-      "points": "35",
+      "position": "3",
+      "points": "38",
       "wins": "1",
       "Driver": { "givenName": "Martinius", "familyName": "Stenshorne" },
       "Constructors": [{ "name": "Rodin Motorsport", "constructorId": "rodin" }]
     },
     {
+      "position": "4",
+      "points": "37",
+      "wins": "0",
+      "Driver": { "givenName": "Rafael", "familyName": "Câmara" },
+      "Constructors": [{ "name": "Invicta Racing", "constructorId": "invicta" }]
+    },
+    {
       "position": "5",
-      "points": "33",
-      "wins": "1",
-      "Driver": { "givenName": "Noel", "familyName": "León" },
+      "points": "35",
+      "wins": "2",
+      "Driver": { "givenName": "Nikola", "familyName": "Tsolov" },
       "Constructors": [{ "name": "Campos Racing", "constructorId": "campos" }]
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "position": "8",
-      "points": "24",
+      "points": "28",
       "wins": "0",
       "Driver": { "givenName": "Dino", "familyName": "Beganovic" },
       "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
@@ -65,7 +65,7 @@
     },
     {
       "position": "10",
-      "points": "16",
+      "points": "21",
       "wins": "1",
       "Driver": { "givenName": "Joshua", "familyName": "Dürksen" },
       "Constructors": [{ "name": "Invicta Racing", "constructorId": "invicta" }]
@@ -86,17 +86,17 @@
     },
     {
       "position": "13",
-      "points": "14",
+      "points": "16",
       "wins": "0",
-      "Driver": { "givenName": "Nico", "familyName": "Varrone" },
-      "Constructors": [{ "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }]
+      "Driver": { "givenName": "Kush", "familyName": "Maini" },
+      "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
     },
     {
       "position": "14",
       "points": "14",
       "wins": "0",
-      "Driver": { "givenName": "Kush", "familyName": "Maini" },
-      "Constructors": [{ "name": "ART Grand Prix", "constructorId": "art_grand_prix" }]
+      "Driver": { "givenName": "Nico", "familyName": "Varrone" },
+      "Constructors": [{ "name": "Van Amersfoort Racing", "constructorId": "van_amersfoort" }]
     },
     {
       "position": "15",
@@ -116,29 +116,29 @@
       "position": "17",
       "points": "10",
       "wins": "0",
+      "Driver": { "givenName": "Roman", "familyName": "Bilinski" },
+      "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
+    },
+    {
+      "position": "18",
+      "points": "10",
+      "wins": "0",
       "Driver": { "givenName": "Cian", "familyName": "Shields" },
       "Constructors": [{ "name": "AIX Racing", "constructorId": "aix" }]
     },
     {
-      "position": "18",
+      "position": "19",
       "points": "10",
       "wins": "0",
       "Driver": { "givenName": "Mari", "familyName": "Boya" },
       "Constructors": [{ "name": "Prema Racing", "constructorId": "prema" }]
     },
     {
-      "position": "19",
+      "position": "20",
       "points": "4",
       "wins": "0",
       "Driver": { "givenName": "Emerson", "familyName": "Fittipaldi Jr." },
       "Constructors": [{ "name": "AIX Racing", "constructorId": "aix" }]
-    },
-    {
-      "position": "20",
-      "points": "2",
-      "wins": "0",
-      "Driver": { "givenName": "Roman", "familyName": "Bilinski" },
-      "Constructors": [{ "name": "DAMS Lucas Oil", "constructorId": "dams" }]
     },
     {
       "position": "21",
@@ -154,6 +154,5 @@
       "Driver": { "givenName": "John", "familyName": "Bennett" },
       "Constructors": [{ "name": "Trident", "constructorId": "trident" }]
     }
-
   ]
 }
