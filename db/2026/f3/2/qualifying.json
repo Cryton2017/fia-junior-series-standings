@@ -3,15 +3,15 @@
     { "position": "1", 
       "Driver": { 
         "givenName": "Théophile", 
-        "familyName": "Naël"
+        "familyName": "Naël" 
       }, 
       "Constructor": { 
         "constructorId": "campos" 
       }, 
       "Time": { 
         "time": "1:24.471", 
-        "group": "B",
-        "groupPosition": "1"
+        "group": "B", 
+        "groupPosition": "1" 
       }, 
       "status": "Finished" 
     },
@@ -25,8 +25,8 @@
       }, 
       "Time": { 
         "time": "1:24.612", 
-        "group": "A",
-        "groupPosition": "1"
+        "group": "A", 
+        "groupPosition": "1" 
       }, 
       "status": "Finished" 
     },
@@ -40,8 +40,8 @@
       }, 
       "Time": { 
         "time": "+0.406", 
-        "group": "B",
-        "groupPosition": "2"
+        "group": "B", 
+        "groupPosition": "2" 
       }, 
       "status": "Finished" 
     },
@@ -55,8 +55,8 @@
       }, 
       "Time": { 
         "time": "+0.351", 
-        "group": "A",
-        "groupPosition": "2"
+        "group": "A", 
+        "groupPosition": "2" 
       }, 
       "status": "Finished" 
     },
@@ -70,8 +70,8 @@
       }, 
       "Time": { 
         "time": "+0.411", 
-        "group": "B",
-        "groupPosition": "3"
+        "group": "B", 
+        "groupPosition": "3" 
       }, 
       "status": "Finished" 
     },
@@ -85,8 +85,8 @@
       }, 
       "Time": { 
         "time": "+0.630", 
-        "group": "A",
-        "groupPosition": "3"
+        "group": "A", 
+        "groupPosition": "3" 
       }, 
       "status": "Finished" 
     },
@@ -100,8 +100,8 @@
       }, 
       "Time": { 
         "time": "+0.557", 
-        "group": "B",
-        "groupPosition": "4"
+        "group": "B", 
+        "groupPosition": "4" 
       }, 
       "status": "Finished" 
     },
@@ -115,8 +115,8 @@
       }, 
       "Time": { 
         "time": "+0.696", 
-        "group": "A",
-        "groupPosition": "4"
+        "group": "A", 
+        "groupPosition": "4" 
       }, 
       "status": "Finished" 
     },
@@ -130,8 +130,8 @@
       }, 
       "Time": { 
         "time": "+0.658", 
-        "group": "B",
-        "groupPosition": "5"
+        "group": "B", 
+        "groupPosition": "5" 
       }, 
       "status": "Finished" 
     },
@@ -145,8 +145,8 @@
       }, 
       "Time": { 
         "time": "+0.720", 
-        "group": "A",
-        "groupPosition": "5"
+        "group": "A", 
+        "groupPosition": "5" 
       }, 
       "status": "Finished" 
     },
@@ -160,8 +160,8 @@
       }, 
       "Time": { 
         "time": "+0.741", 
-        "group": "B",
-        "groupPosition": "6"
+        "group": "B", 
+        "groupPosition": "6" 
       }, 
       "status": "Finished" 
     },
@@ -175,8 +175,8 @@
       }, 
       "Time": { 
         "time": "+0.740", 
-        "group": "A",
-        "groupPosition": "6"
+        "group": "A", 
+        "groupPosition": "6" 
       }, 
       "status": "Finished" 
     },
@@ -190,8 +190,8 @@
       }, 
       "Time": { 
         "time": "+0.743", 
-        "group": "B",
-        "groupPosition": "7"
+        "group": "B", 
+        "groupPosition": "7" 
       }, 
       "status": "Finished" 
     },
@@ -205,8 +205,8 @@
       }, 
       "Time": { 
         "time": "+0.865", 
-        "group": "A",
-        "groupPosition": "7"
+        "group": "A", 
+        "groupPosition": "7" 
       }, 
       "status": "Finished" 
     },
@@ -220,8 +220,8 @@
       }, 
       "Time": { 
         "time": "+0.800", 
-        "group": "B",
-        "groupPosition": "8"
+        "group": "B", 
+        "groupPosition": "8" 
       }, 
       "status": "Finished" 
     },
@@ -235,8 +235,8 @@
       }, 
       "Time": { 
         "time": "+1.081", 
-        "group": "A",
-        "groupPosition": "8"
+        "group": "A", 
+        "groupPosition": "8" 
       }, 
       "status": "Finished" 
     },
@@ -250,8 +250,8 @@
       }, 
       "Time": { 
         "time": "+0.837", 
-        "group": "B",
-        "groupPosition": "9"
+        "group": "B", 
+        "groupPosition": "9" 
       }, 
       "status": "Finished" 
     },
@@ -265,8 +265,8 @@
       }, 
       "Time": { 
         "time": "+1.266", 
-        "group": "A",
-        "groupPosition": "9"
+        "group": "A", 
+        "groupPosition": "9" 
       }, 
       "status": "Finished" 
     },
@@ -280,8 +280,8 @@
       }, 
       "Time": { 
         "time": "+1.008", 
-        "group": "B",
-        "groupPosition": "10"
+        "group": "B", 
+        "groupPosition": "10" 
       }, 
       "status": "Finished" 
     },
@@ -295,8 +295,8 @@
       }, 
       "Time": { 
         "time": "+1.278", 
-        "group": "A",
-        "groupPosition": "10"
+        "group": "A", 
+        "groupPosition": "10" 
       }, 
       "status": "Finished" 
     },
@@ -310,8 +310,8 @@
       }, 
       "Time": { 
         "time": "+1.009", 
-        "group": "B",
-        "groupPosition": "11"
+        "group": "B", 
+        "groupPosition": "11" 
       }, 
       "status": "Finished" 
     },
@@ -325,8 +325,8 @@
       }, 
       "Time": { 
         "time": "+1.402", 
-        "group": "A",
-        "groupPosition": "11"
+        "group": "A", 
+        "groupPosition": "11" 
       }, 
       "status": "Finished" 
     },
@@ -340,8 +340,8 @@
       }, 
       "Time": { 
         "time": "+1.049", 
-        "group": "B",
-        "groupPosition": "12"
+        "group": "B", 
+        "groupPosition": "12" 
       }, 
       "status": "Finished" 
     },
@@ -355,8 +355,8 @@
       }, 
       "Time": { 
         "time": "+1.596", 
-        "group": "A",
-        "groupPosition": "12"
+        "group": "A", 
+        "groupPosition": "12" 
       }, 
       "status": "Finished" 
     },
@@ -370,8 +370,8 @@
       }, 
       "Time": { 
         "time": "+1.178", 
-        "group": "B",
-        "groupPosition": "13"
+        "group": "B", 
+        "groupPosition": "13" 
       }, 
       "status": "Finished" 
     },
@@ -385,8 +385,8 @@
       }, 
       "Time": { 
         "time": "+1.681", 
-        "group": "A",
-        "groupPosition": "13"
+        "group": "A", 
+        "groupPosition": "13" 
       }, 
       "status": "Finished" 
     },
@@ -400,8 +400,8 @@
       }, 
       "Time": { 
         "time": "+1.448", 
-        "group": "B",
-        "groupPosition": "14"
+        "group": "B", 
+        "groupPosition": "14" 
       }, 
       "status": "Finished" 
     },
@@ -415,8 +415,8 @@
       }, 
       "Time": { 
         "time": "+1.775", 
-        "group": "A",
-        "groupPosition": "14"
+        "group": "A", 
+        "groupPosition": "14" 
       }, 
       "status": "Finished" 
     },
@@ -430,8 +430,8 @@
       }, 
       "Time": { 
         "time": "+1.752", 
-        "group": "B",
-        "groupPosition": "15"
+        "group": "B", 
+        "groupPosition": "15" 
       }, 
       "status": "Finished" 
     },
@@ -445,8 +445,8 @@
       }, 
       "Time": { 
         "time": "+1.900", 
-        "group": "A",
-        "groupPosition": "15"
+        "group": "A", 
+        "groupPosition": "15" 
       }, 
       "status": "Finished" 
     }
