@@ -15,7 +15,7 @@
     },
     {
       "position": "2",
-      "points": "60",
+      "points": "62",
       "wins": "3",
       "Driver": { 
         "givenName": "Nikola", 
@@ -226,8 +226,8 @@
       "points": "10",
       "wins": "0",
       "Driver": { 
-        "givenName": "Emerson", 
-        "familyName": "Fittipaldi Jr." 
+        "givenName": "Cian", 
+        "familyName": "Shields" 
       },
       "Constructors": [{ 
         "name": "AIX Racing", 
@@ -239,8 +239,8 @@
       "points": "10",
       "wins": "0",
       "Driver": { 
-        "givenName": "Cian", 
-        "familyName": "Shields" 
+        "givenName": "Emerson", 
+        "familyName": "Fittipaldi Jr." 
       },
       "Constructors": [{ 
         "name": "AIX Racing", 

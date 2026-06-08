@@ -9,7 +9,7 @@
         "constructorId": "campos" 
       }, 
       "Time": { 
-        "time": "1:03:08.023" 
+        "time": "1:00:19.442" 
       }, 
       "status": "Finished" 
     },
@@ -22,7 +22,7 @@
         "constructorId": "rodin" 
       }, 
       "Time": { 
-        "time": "+1.077" 
+        "time": "+9.013" 
       }, 
       "status": "Finished" 
     },
@@ -35,7 +35,7 @@
         "constructorId": "dams" 
       }, 
       "Time": { 
-        "time": "+1.313" 
+        "time": "+26.471" 
       }, 
       "status": "Finished" 
     },
@@ -48,7 +48,7 @@
         "constructorId": "art_grand_prix" 
       }, 
       "Time": { 
-        "time": "+2.061" 
+        "time": "+30.203" 
       }, 
       "status": "Finished" 
     },
@@ -61,7 +61,7 @@
         "constructorId": "rodin" 
       }, 
       "Time": { 
-        "time": "+2.442" 
+        "time": "+30.294" 
       }, 
       "status": "Finished" 
     },
@@ -74,7 +74,7 @@
         "constructorId": "hitech" 
       }, 
       "Time": { 
-        "time": "+2.666" 
+        "time": "+30.859" 
       }, 
       "status": "Finished" 
     },
@@ -87,7 +87,7 @@
         "constructorId": "aix" 
       }, 
       "Time": { 
-        "time": "+5.346" 
+        "time": "+40.542" 
       }, 
       "status": "Finished" 
     },
@@ -100,7 +100,7 @@
         "constructorId": "prema" 
       }, 
       "Time": { 
-        "time": "+5.694" 
+        "time": "+42.157" 
       }, 
       "status": "Finished" 
     },
@@ -113,7 +113,7 @@
         "constructorId": "campos" 
       }, 
       "Time": { 
-        "time": "+7.377" 
+        "time": "+42.506" 
       }, 
       "status": "Finished" 
     },
@@ -126,7 +126,7 @@
         "constructorId": "dams" 
       }, 
       "Time": { 
-        "time": "+8.560" 
+        "time": "+43.015" 
       }, 
       "status": "Finished" 
     },
@@ -139,7 +139,7 @@
         "constructorId": "mp_motorsport" 
       }, 
       "Time": { 
-        "time": "+11.590" 
+        "time": "+43.573" 
       }, 
       "status": "Finished" 
     },
@@ -152,7 +152,7 @@
         "constructorId": "trident" 
       }, 
       "Time": { 
-        "time": "+11.859" 
+        "time": "+47.323" 
       }, 
       "status": "Finished" 
     },
@@ -165,7 +165,7 @@
         "constructorId": "art_grand_prix" 
       }, 
       "Time": { 
-        "time": "+13.339" 
+        "time": "+48.010" 
       }, 
       "status": "Finished" 
     },
@@ -178,7 +178,7 @@
         "constructorId": "mp_motorsport" 
       }, 
       "Time": { 
-        "time": "+15.000" 
+        "time": "+55.610" 
       }, 
       "status": "Finished" 
     },
@@ -191,7 +191,7 @@
         "constructorId": "invicta" 
       }, 
       "Time": { 
-        "time": "+16.500" 
+        "time": "+65.734" 
       }, 
       "status": "Finished" 
     },
@@ -204,7 +204,7 @@
         "constructorId": "prema" 
       }, 
       "Time": { 
-        "time": "+18.100" 
+        "time": "+70.603" 
       }, 
       "status": "Finished" 
     },
@@ -217,7 +217,7 @@
         "constructorId": "aix" 
       }, 
       "Time": { 
-        "time": "+19.500" 
+        "time": "+70.691" 
       }, 
       "status": "Finished" 
     },
@@ -230,7 +230,7 @@
         "constructorId": "trident" 
       }, 
       "Time": { 
-        "time": "+21.200" 
+        "time": "+73.229" 
       }, 
       "status": "Finished" 
     },
@@ -243,7 +243,7 @@
         "constructorId": "hitech" 
       }, 
       "Time": { 
-        "time": "+22.800" 
+        "time": "+75.197" 
       }, 
       "status": "Finished" 
     },
@@ -256,7 +256,7 @@
         "constructorId": "van_amersfoort" 
       }, 
       "Time": { 
-        "time": "+24.100" 
+        "time": "+77.159" 
       }, 
       "status": "Finished" 
     },
@@ -269,7 +269,7 @@
         "constructorId": "van_amersfoort" 
       }, 
       "Time": { 
-        "time": "+26.000" 
+        "time": "+81.546" 
       }, 
       "status": "Finished" 
     },
@@ -284,7 +284,7 @@
       "Time": { 
         "time": "" 
       }, 
-      "status": "Retired" 
+      "status": "Mechanical" 
     }
   ]
 }

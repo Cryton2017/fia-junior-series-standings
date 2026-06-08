@@ -68,8 +68,8 @@
       "points": "6",
       "wins": "0",
       "Constructor": { 
-        "name": "AIX Racing", 
-        "constructorId": "aix" 
+        "name": "Hitech", 
+        "constructorId": "hitech" 
       }
     },
     {
@@ -77,8 +77,8 @@
       "points": "6",
       "wins": "0",
       "Constructor": { 
-        "name": "Hitech", 
-        "constructorId": "hitech" 
+        "name": "AIX Racing", 
+        "constructorId": "aix" 
       }
     },
     {

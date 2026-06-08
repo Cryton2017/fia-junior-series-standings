@@ -96,19 +96,6 @@
       "points": "13",
       "wins": "0",
       "Driver": { 
-        "givenName": "Maciej", 
-        "familyName": "Gładysz" 
-      },
-      "Constructors": [{ 
-        "name": "ART Grand Prix", 
-        "constructorId": "art_grand_prix" 
-      }]
-    },
-    {
-      "position": "9",
-      "points": "13",
-      "wins": "0",
-      "Driver": { 
         "givenName": "Alessandro", 
         "familyName": "Giusti" 
       },
@@ -118,20 +105,20 @@
       }]
     },
     {
-      "position": "10",
-      "points": "12",
+      "position": "9",
+      "points": "13",
       "wins": "0",
       "Driver": { 
-        "givenName": "Enzo", 
-        "familyName": "Deligny" 
+        "givenName": "Maciej", 
+        "familyName": "Gładysz" 
       },
       "Constructors": [{ 
-        "name": "Van Amersfoort Racing", 
-        "constructorId": "van_amersfoort" 
+        "name": "ART Grand Prix", 
+        "constructorId": "art_grand_prix" 
       }]
     },
     {
-      "position": "11",
+      "position": "10",
       "points": "12",
       "wins": "1",
       "Driver": { 
@@ -141,6 +128,19 @@
       "Constructors": [{ 
         "name": "DAMS Lucas Oil", 
         "constructorId": "dams" 
+      }]
+    },
+    {
+      "position": "11",
+      "points": "12",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Enzo", 
+        "familyName": "Deligny" 
+      },
+      "Constructors": [{ 
+        "name": "Van Amersfoort Racing", 
+        "constructorId": "van_amersfoort" 
       }]
     },
     {
@@ -278,32 +278,6 @@
       "points": "0",
       "wins": "0",
       "Driver": { 
-        "givenName": "Tuukka", 
-        "familyName": "Taponen" 
-      },
-      "Constructors": [{ 
-        "name": "MP Motorsport", 
-        "constructorId": "mp_motorsport" 
-      }]
-    },
-    {
-      "position": "23",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Fionn", 
-        "familyName": "McLaughlin" 
-      },
-      "Constructors": [{ 
-        "name": "Hitech", 
-        "constructorId": "hitech" 
-      }]
-    },
-    {
-      "position": "24",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
         "givenName": "Louis", 
         "familyName": "Sharp" 
       },
@@ -313,72 +287,20 @@
       }]
     },
     {
-      "position": "25",
+      "position": "23",
       "points": "0",
       "wins": "0",
       "Driver": { 
-        "givenName": "Christian", 
-        "familyName": "Ho" 
+        "givenName": "Tuukka", 
+        "familyName": "Taponen" 
       },
       "Constructors": [{ 
-        "name": "Rodin Motorsport", 
-        "constructorId": "rodin" 
+        "name": "MP Motorsport", 
+        "constructorId": "mp_motorsport" 
       }]
     },
     {
-      "position": "26",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Fernando", 
-        "familyName": "Barrichello" 
-      },
-      "Constructors": [{ 
-        "name": "AIX Racing", 
-        "constructorId": "aix" 
-      }]
-    },
-    {
-      "position": "27",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Yevan", 
-        "familyName": "David" 
-      },
-      "Constructors": [{ 
-        "name": "AIX Racing", 
-        "constructorId": "aix" 
-      }]
-    },
-    {
-      "position": "28",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Matteo", 
-        "familyName": "De Palo" 
-      },
-      "Constructors": [{ 
-        "name": "Trident", 
-        "constructorId": "trident" 
-      }]
-    },
-    {
-      "position": "29",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Michael", 
-        "familyName": "Shin" 
-      },
-      "Constructors": [{ 
-        "name": "Hitech", 
-        "constructorId": "hitech" 
-      }]
-    },
-    {
-      "position": "30",
+      "position": "24",
       "points": "0",
       "wins": "0",
       "Driver": { 
@@ -391,7 +313,46 @@
       }]
     },
     {
-      "position": "31",
+      "position": "25",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Fionn", 
+        "familyName": "McLaughlin" 
+      },
+      "Constructors": [{ 
+        "name": "Hitech", 
+        "constructorId": "hitech" 
+      }]
+    },
+    {
+      "position": "26",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Matteo", 
+        "familyName": "De Palo" 
+      },
+      "Constructors": [{ 
+        "name": "Trident", 
+        "constructorId": "trident" 
+      }]
+    },
+    {
+      "position": "27",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Christian", 
+        "familyName": "Ho" 
+      },
+      "Constructors": [{ 
+        "name": "Rodin Motorsport", 
+        "constructorId": "rodin" 
+      }]
+    },
+    {
+      "position": "28",
       "points": "0",
       "wins": "0",
       "Driver": { 
@@ -401,6 +362,45 @@
       "Constructors": [{ 
         "name": "Campos Racing", 
         "constructorId": "campos" 
+      }]
+    },
+    {
+      "position": "29",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Fernando", 
+        "familyName": "Barrichello" 
+      },
+      "Constructors": [{ 
+        "name": "AIX Racing", 
+        "constructorId": "aix" 
+      }]
+    },
+    {
+      "position": "30",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Michael", 
+        "familyName": "Shin" 
+      },
+      "Constructors": [{ 
+        "name": "Hitech", 
+        "constructorId": "hitech" 
+      }]
+    },
+    {
+      "position": "31",
+      "points": "0",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Yevan", 
+        "familyName": "David" 
+      },
+      "Constructors": [{ 
+        "name": "AIX Racing", 
+        "constructorId": "aix" 
       }]
     }
   ]
