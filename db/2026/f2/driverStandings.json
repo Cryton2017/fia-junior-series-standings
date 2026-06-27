@@ -2,7 +2,7 @@
   "standings": [
     {
       "position": "1",
-      "points": "63",
+      "points": "86",
       "wins": "1",
       "Driver": { 
         "givenName": "Gabriele", 
@@ -15,7 +15,7 @@
     },
     {
       "position": "2",
-      "points": "62",
+      "points": "80",
       "wins": "3",
       "Driver": { 
         "givenName": "Nikola", 
@@ -28,20 +28,20 @@
     },
     {
       "position": "3",
-      "points": "48",
+      "points": "69",
       "wins": "1",
       "Driver": { 
-        "givenName": "Martinius", 
-        "familyName": "Stenshorne" 
+        "givenName": "Rafael", 
+        "familyName": "Câmara" 
       },
       "Constructors": [{ 
-        "name": "Rodin Motorsport", 
-        "constructorId": "rodin" 
+        "name": "Invicta Racing", 
+        "constructorId": "invicta" 
       }]
     },
     {
       "position": "4",
-      "points": "48",
+      "points": "67",
       "wins": "0",
       "Driver": { 
         "givenName": "Alex", 
@@ -54,7 +54,7 @@
     },
     {
       "position": "5",
-      "points": "45",
+      "points": "54",
       "wins": "2",
       "Driver": { 
         "givenName": "Noel", 
@@ -67,7 +67,7 @@
     },
     {
       "position": "6",
-      "points": "43",
+      "points": "53",
       "wins": "0",
       "Driver": { 
         "givenName": "Dino", 
@@ -80,20 +80,20 @@
     },
     {
       "position": "7",
-      "points": "37",
-      "wins": "0",
+      "points": "48",
+      "wins": "1",
       "Driver": { 
-        "givenName": "Rafael", 
-        "familyName": "Câmara" 
+        "givenName": "Martinius", 
+        "familyName": "Stenshorne" 
       },
       "Constructors": [{ 
-        "name": "Invicta Racing", 
-        "constructorId": "invicta" 
+        "name": "Rodin Motorsport", 
+        "constructorId": "rodin" 
       }]
     },
     {
       "position": "8",
-      "points": "33",
+      "points": "43",
       "wins": "0",
       "Driver": { 
         "givenName": "Laurens", 
@@ -106,6 +106,19 @@
     },
     {
       "position": "9",
+      "points": "41",
+      "wins": "1",
+      "Driver": { 
+        "givenName": "Kush", 
+        "familyName": "Maini" 
+      },
+      "Constructors": [{ 
+        "name": "ART Grand Prix", 
+        "constructorId": "art_grand_prix" 
+      }]
+    },
+    {
+      "position": "10",
       "points": "30",
       "wins": "0",
       "Driver": { 
@@ -115,19 +128,6 @@
       "Constructors": [{ 
         "name": "Hitech", 
         "constructorId": "hitech" 
-      }]
-    },
-    {
-      "position": "10",
-      "points": "28",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Kush", 
-        "familyName": "Maini" 
-      },
-      "Constructors": [{ 
-        "name": "ART Grand Prix", 
-        "constructorId": "art_grand_prix" 
       }]
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "position": "13",
-      "points": "16",
+      "points": "20",
       "wins": "0",
       "Driver": { 
         "givenName": "Colton", 
@@ -200,25 +200,25 @@
       "points": "12",
       "wins": "0",
       "Driver": { 
-        "givenName": "Oliver", 
-        "familyName": "Goethe" 
-      },
-      "Constructors": [{ 
-        "name": "MP Motorsport", 
-        "constructorId": "mp_motorsport" 
-      }]
-    },
-    {
-      "position": "17",
-      "points": "11",
-      "wins": "0",
-      "Driver": { 
         "givenName": "Roman", 
         "familyName": "Bilinski" 
       },
       "Constructors": [{ 
         "name": "DAMS Lucas Oil", 
         "constructorId": "dams" 
+      }]
+    },
+    {
+      "position": "17",
+      "points": "12",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Oliver", 
+        "familyName": "Goethe" 
+      },
+      "Constructors": [{ 
+        "name": "MP Motorsport", 
+        "constructorId": "mp_motorsport" 
       }]
     },
     {
@@ -262,6 +262,19 @@
     },
     {
       "position": "21",
+      "points": "7",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "John", 
+        "familyName": "Bennett" 
+      },
+      "Constructors": [{ 
+        "name": "Trident", 
+        "constructorId": "trident" 
+      }]
+    },
+    {
+      "position": "22",
       "points": "0",
       "wins": "0",
       "Driver": { 
@@ -271,19 +284,6 @@
       "Constructors": [{ 
         "name": "Van Amersfoort Racing", 
         "constructorId": "van_amersfoort" 
-      }]
-    },
-    {
-      "position": "22",
-      "points": "0",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "John", 
-        "familyName": "Bennett" 
-      },
-      "Constructors": [{ 
-        "name": "Trident", 
-        "constructorId": "trident" 
       }]
     }
   ]

@@ -2,7 +2,7 @@
   "standings": [
     {
       "position": "1",
-      "points": "107",
+      "points": "134",
       "wins": "5",
       "Constructor": { 
         "name": "Campos Racing", 
@@ -11,7 +11,7 @@
     },
     {
       "position": "2",
-      "points": "96",
+      "points": "115",
       "wins": "1",
       "Constructor": { 
         "name": "Rodin Motorsport", 
@@ -20,7 +20,7 @@
     },
     {
       "position": "3",
-      "points": "75",
+      "points": "98",
       "wins": "1",
       "Constructor": { 
         "name": "MP Motorsport", 
@@ -29,8 +29,8 @@
     },
     {
       "position": "4",
-      "points": "58",
-      "wins": "1",
+      "points": "90",
+      "wins": "2",
       "Constructor": { 
         "name": "Invicta Racing", 
         "constructorId": "invicta" 
@@ -38,7 +38,7 @@
     },
     {
       "position": "5",
-      "points": "54",
+      "points": "65",
       "wins": "0",
       "Constructor": { 
         "name": "DAMS Lucas Oil", 
@@ -47,29 +47,29 @@
     },
     {
       "position": "6",
-      "points": "46",
-      "wins": "0",
-      "Constructor": { 
-        "name": "Hitech", 
-        "constructorId": "hitech" 
-      }
-    },
-    {
-      "position": "7",
-      "points": "41",
-      "wins": "0",
+      "points": "54",
+      "wins": "1",
       "Constructor": { 
         "name": "ART Grand Prix", 
         "constructorId": "art_grand_prix" 
       }
     },
     {
-      "position": "8",
-      "points": "33",
+      "position": "7",
+      "points": "50",
       "wins": "0",
       "Constructor": { 
         "name": "Trident", 
         "constructorId": "trident" 
+      }
+    },
+    {
+      "position": "8",
+      "points": "50",
+      "wins": "0",
+      "Constructor": { 
+        "name": "Hitech", 
+        "constructorId": "hitech" 
       }
     },
     {
