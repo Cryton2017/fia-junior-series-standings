@@ -61,7 +61,7 @@
         "constructorId": "campos" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+21.965" 
       }, 
       "status": "Finished" 
     },
@@ -74,7 +74,7 @@
         "constructorId": "van_amersfoort" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+22.880" 
       }, 
       "status": "Finished" 
     },
@@ -87,7 +87,7 @@
         "constructorId": "mp_motorsport" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+23.555" 
       }, 
       "status": "Finished" 
     },
@@ -100,7 +100,7 @@
         "constructorId": "rodin" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+26.131" 
       }, 
       "status": "Finished" 
     },
@@ -113,7 +113,7 @@
         "constructorId": "dams" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+27.480" 
       }, 
       "status": "Finished" 
     },
@@ -126,7 +126,7 @@
         "constructorId": "trident" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+27.763" 
       }, 
       "status": "Finished" 
     },
@@ -139,7 +139,7 @@
         "constructorId": "art_grand_prix" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+28.551" 
       }, 
       "status": "Finished" 
     },
@@ -152,7 +152,7 @@
         "constructorId": "prema" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+29.156" 
       }, 
       "status": "Finished" 
     },
@@ -165,7 +165,7 @@
         "constructorId": "van_amersfoort" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+29.754" 
       }, 
       "status": "Finished" 
     },
@@ -178,7 +178,7 @@
         "constructorId": "van_amersfoort" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+35.308" 
       }, 
       "status": "Finished" 
     },
@@ -191,7 +191,59 @@
         "constructorId": "prema" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+36.748" 
+      }, 
+      "status": "Finished" 
+    },
+    { "position": "16", 
+      "Driver": { 
+        "givenName": "Christian", 
+        "familyName": "Ho" 
+      }, 
+      "Constructor": { 
+        "constructorId": "rodin" 
+      }, 
+      "Time": { 
+        "time": "+39.761" 
+      }, 
+      "status": "Finished" 
+    },
+    { "position": "17", 
+      "Driver": { 
+        "givenName": "Kanato", 
+        "familyName": "Le" 
+      }, 
+      "Constructor": { 
+        "constructorId": "art_grand_prix" 
+      }, 
+      "Time": { 
+        "time": "+40.214" 
+      }, 
+      "status": "Finished" 
+    },
+    { "position": "18", 
+      "Driver": { 
+        "givenName": "James", 
+        "familyName": "Wharton" 
+      }, 
+      "Constructor": { 
+        "constructorId": "prema" 
+      }, 
+      "Time": { 
+        "time": "+41.426" 
+      }, 
+      "status": "Finished" 
+    },
+    { "position": "19", 
+      "Driver": { 
+        "givenName": "Mattia", 
+        "familyName": "Colnaghi" 
+      }, 
+      "Constructor": { 
+        "constructorId": "mp_motorsport" 
+      }, 
+      "Time": { 
+        "time": "+48.068" 
       }, 
       "status": "Finished" 
     },
@@ -204,59 +256,7 @@
         "constructorId": "aix" 
       }, 
       "Time": { 
-        "time": "" 
-      }, 
-      "status": "Finished" 
-    },
-    { "position": "17", 
-      "Driver": { 
-        "givenName": "Christian", 
-        "familyName": "Ho" 
-      }, 
-      "Constructor": { 
-        "constructorId": "rodin" 
-      }, 
-      "Time": { 
-        "time": "" 
-      }, 
-      "status": "Finished" 
-    },
-    { "position": "18", 
-      "Driver": { 
-        "givenName": "Kanato", 
-        "familyName": "Le" 
-      }, 
-      "Constructor": { 
-        "constructorId": "art_grand_prix" 
-      }, 
-      "Time": { 
-        "time": "" 
-      }, 
-      "status": "Finished" 
-    },
-    { "position": "19", 
-      "Driver": { 
-        "givenName": "James", 
-        "familyName": "Wharton" 
-      }, 
-      "Constructor": { 
-        "constructorId": "prema" 
-      }, 
-      "Time": { 
-        "time": "" 
-      }, 
-      "status": "Finished" 
-    },
-    { "position": "20", 
-      "Driver": { 
-        "givenName": "Mattia", 
-        "familyName": "Colnaghi" 
-      }, 
-      "Constructor": { 
-        "constructorId": "mp_motorsport" 
-      }, 
-      "Time": { 
-        "time": "" 
+        "time": "+49.140" 
       }, 
       "status": "Finished" 
     },
@@ -269,7 +269,7 @@
         "constructorId": "hitech" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+49.708" 
       }, 
       "status": "Finished" 
     },
@@ -282,7 +282,7 @@
         "constructorId": "dams" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+62.729" 
       }, 
       "status": "Finished" 
     },
@@ -295,7 +295,7 @@
         "constructorId": "hitech" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+64.444" 
       }, 
       "status": "Finished" 
     },
@@ -308,7 +308,7 @@
         "constructorId": "art_grand_prix" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+76.181" 
       }, 
       "status": "Finished" 
     },
@@ -321,7 +321,7 @@
         "constructorId": "trident" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+80.635" 
       }, 
       "status": "Finished" 
     },
@@ -334,11 +334,11 @@
         "constructorId": "hitech" 
       }, 
       "Time": { 
-        "time": "" 
+        "time": "+90.285" 
       }, 
       "status": "Finished" 
     },
-    { "position": "27", 
+    { "position": "DNF", 
       "Driver": { 
         "givenName": "Nicola", 
         "familyName": "Lacorte" 
@@ -347,9 +347,9 @@
         "constructorId": "dams" 
       }, 
       "Time": { 
-        "time": "+2 Laps" 
+        "time": "" 
       }, 
-      "status": "Finished" 
+      "status": "Collision" 
     },
     { "position": "DNF", 
       "Driver": { 
@@ -362,7 +362,7 @@
       "Time": { 
         "time": "" 
       }, 
-      "status": "Retired" 
+      "status": "Accident" 
     },
     { "position": "DNF", 
       "Driver": { 
@@ -375,7 +375,7 @@
       "Time": { 
         "time": "" 
       }, 
-      "status": "Accident" 
+      "status": "Collision" 
     },
     { "position": "DNS", 
       "Driver": { 
@@ -388,7 +388,7 @@
       "Time": { 
         "time": "" 
       }, 
-      "status": "Did Not Start" 
+      "status": "Medical" 
     }
   ]
 }
