@@ -2,7 +2,7 @@
   "standings": [
     {
       "position": "1",
-      "points": "86",
+      "points": "108",
       "wins": "1",
       "Driver": { 
         "givenName": "Gabriele", 
@@ -15,8 +15,8 @@
     },
     {
       "position": "2",
-      "points": "80",
-      "wins": "3",
+      "points": "106",
+      "wins": "4",
       "Driver": { 
         "givenName": "Nikola", 
         "familyName": "Tsolov" 
@@ -28,7 +28,7 @@
     },
     {
       "position": "3",
-      "points": "69",
+      "points": "82",
       "wins": "1",
       "Driver": { 
         "givenName": "Rafael", 
@@ -41,7 +41,7 @@
     },
     {
       "position": "4",
-      "points": "67",
+      "points": "80",
       "wins": "0",
       "Driver": { 
         "givenName": "Alex", 
@@ -54,7 +54,7 @@
     },
     {
       "position": "5",
-      "points": "54",
+      "points": "62",
       "wins": "2",
       "Driver": { 
         "givenName": "Noel", 
@@ -93,7 +93,7 @@
     },
     {
       "position": "8",
-      "points": "43",
+      "points": "47",
       "wins": "0",
       "Driver": { 
         "givenName": "Laurens", 
@@ -106,7 +106,7 @@
     },
     {
       "position": "9",
-      "points": "41",
+      "points": "43",
       "wins": "1",
       "Driver": { 
         "givenName": "Kush", 
@@ -132,20 +132,7 @@
     },
     {
       "position": "11",
-      "points": "21",
-      "wins": "1",
-      "Driver": { 
-        "givenName": "Joshua", 
-        "familyName": "Dürksen" 
-      },
-      "Constructors": [{ 
-        "name": "Invicta Racing", 
-        "constructorId": "invicta" 
-      }]
-    },
-    {
-      "position": "12",
-      "points": "20",
+      "points": "28",
       "wins": "0",
       "Driver": { 
         "givenName": "Sebastián", 
@@ -157,7 +144,46 @@
       }]
     },
     {
+      "position": "12",
+      "points": "28",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Oliver", 
+        "familyName": "Goethe" 
+      },
+      "Constructors": [{ 
+        "name": "MP Motorsport", 
+        "constructorId": "mp_motorsport" 
+      }]
+    },
+    {
       "position": "13",
+      "points": "23",
+      "wins": "1",
+      "Driver": { 
+        "givenName": "Joshua", 
+        "familyName": "Dürksen" 
+      },
+      "Constructors": [{ 
+        "name": "Invicta Racing", 
+        "constructorId": "invicta" 
+      }]
+    },
+    {
+      "position": "14",
+      "points": "23",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Tasanapol", 
+        "familyName": "Inthraphuvasak" 
+      },
+      "Constructors": [{ 
+        "name": "ART Grand Prix", 
+        "constructorId": "art_grand_prix" 
+      }]
+    },
+    {
+      "position": "15",
       "points": "20",
       "wins": "0",
       "Driver": { 
@@ -170,7 +196,33 @@
       }]
     },
     {
-      "position": "14",
+      "position": "16",
+      "points": "17",
+      "wins": "1",
+      "Driver": { 
+        "givenName": "John", 
+        "familyName": "Bennett" 
+      },
+      "Constructors": [{ 
+        "name": "Trident", 
+        "constructorId": "trident" 
+      }]
+    },
+    {
+      "position": "17",
+      "points": "16",
+      "wins": "0",
+      "Driver": { 
+        "givenName": "Roman", 
+        "familyName": "Bilinski" 
+      },
+      "Constructors": [{ 
+        "name": "DAMS Lucas Oil", 
+        "constructorId": "dams" 
+      }]
+    },
+    {
+      "position": "18",
       "points": "14",
       "wins": "0",
       "Driver": { 
@@ -183,46 +235,7 @@
       }]
     },
     {
-      "position": "15",
-      "points": "13",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Tasanapol", 
-        "familyName": "Inthraphuvasak" 
-      },
-      "Constructors": [{ 
-        "name": "ART Grand Prix", 
-        "constructorId": "art_grand_prix" 
-      }]
-    },
-    {
-      "position": "16",
-      "points": "12",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Roman", 
-        "familyName": "Bilinski" 
-      },
-      "Constructors": [{ 
-        "name": "DAMS Lucas Oil", 
-        "constructorId": "dams" 
-      }]
-    },
-    {
-      "position": "17",
-      "points": "12",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "Oliver", 
-        "familyName": "Goethe" 
-      },
-      "Constructors": [{ 
-        "name": "MP Motorsport", 
-        "constructorId": "mp_motorsport" 
-      }]
-    },
-    {
-      "position": "18",
+      "position": "19",
       "points": "10",
       "wins": "0",
       "Driver": { 
@@ -235,7 +248,7 @@
       }]
     },
     {
-      "position": "19",
+      "position": "20",
       "points": "10",
       "wins": "0",
       "Driver": { 
@@ -248,7 +261,7 @@
       }]
     },
     {
-      "position": "20",
+      "position": "21",
       "points": "10",
       "wins": "0",
       "Driver": { 
@@ -261,21 +274,8 @@
       }]
     },
     {
-      "position": "21",
-      "points": "7",
-      "wins": "0",
-      "Driver": { 
-        "givenName": "John", 
-        "familyName": "Bennett" 
-      },
-      "Constructors": [{ 
-        "name": "Trident", 
-        "constructorId": "trident" 
-      }]
-    },
-    {
       "position": "22",
-      "points": "0",
+      "points": "6",
       "wins": "0",
       "Driver": { 
         "givenName": "Rafael", 

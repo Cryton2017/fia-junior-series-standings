@@ -2,8 +2,8 @@
   "standings": [
     {
       "position": "1",
-      "points": "134",
-      "wins": "5",
+      "points": "168",
+      "wins": "6",
       "Constructor": { 
         "name": "Campos Racing", 
         "constructorId": "campos" 
@@ -11,16 +11,7 @@
     },
     {
       "position": "2",
-      "points": "115",
-      "wins": "1",
-      "Constructor": { 
-        "name": "Rodin Motorsport", 
-        "constructorId": "rodin" 
-      }
-    },
-    {
-      "position": "3",
-      "points": "98",
+      "points": "136",
       "wins": "1",
       "Constructor": { 
         "name": "MP Motorsport", 
@@ -28,8 +19,17 @@
       }
     },
     {
+      "position": "3",
+      "points": "128",
+      "wins": "1",
+      "Constructor": { 
+        "name": "Rodin Motorsport", 
+        "constructorId": "rodin" 
+      }
+    },
+    {
       "position": "4",
-      "points": "90",
+      "points": "105",
       "wins": "2",
       "Constructor": { 
         "name": "Invicta Racing", 
@@ -38,7 +38,7 @@
     },
     {
       "position": "5",
-      "points": "65",
+      "points": "69",
       "wins": "0",
       "Constructor": { 
         "name": "DAMS Lucas Oil", 
@@ -47,7 +47,7 @@
     },
     {
       "position": "6",
-      "points": "54",
+      "points": "66",
       "wins": "1",
       "Constructor": { 
         "name": "ART Grand Prix", 
@@ -56,8 +56,8 @@
     },
     {
       "position": "7",
-      "points": "50",
-      "wins": "0",
+      "points": "64",
+      "wins": "1",
       "Constructor": { 
         "name": "Trident", 
         "constructorId": "trident" 
@@ -74,7 +74,7 @@
     },
     {
       "position": "9",
-      "points": "30",
+      "points": "38",
       "wins": "0",
       "Constructor": { 
         "name": "Prema Racing", 
@@ -86,17 +86,17 @@
       "points": "20",
       "wins": "0",
       "Constructor": { 
-        "name": "AIX Racing", 
-        "constructorId": "aix" 
+        "name": "Van Amersfoort Racing", 
+        "constructorId": "van_amersfoort" 
       }
     },
     {
       "position": "11",
-      "points": "14",
+      "points": "20",
       "wins": "0",
       "Constructor": { 
-        "name": "Van Amersfoort Racing", 
-        "constructorId": "van_amersfoort" 
+        "name": "AIX Racing", 
+        "constructorId": "aix" 
       }
     }
   ]

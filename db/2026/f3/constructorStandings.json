@@ -2,8 +2,8 @@
   "standings": [
     {
       "position": "1",
-      "points": "126",
-      "wins": "2",
+      "points": "156",
+      "wins": "3",
       "Constructor": { 
         "name": "Campos Racing", 
         "constructorId": "campos" 
@@ -11,7 +11,7 @@
     },
     {
       "position": "2",
-      "points": "99",
+      "points": "109",
       "wins": "1",
       "Constructor": { 
         "name": "Van Amersfoort Racing", 
@@ -20,7 +20,16 @@
     },
     {
       "position": "3",
-      "points": "57",
+      "points": "103",
+      "wins": "1",
+      "Constructor": { 
+        "name": "Trident", 
+        "constructorId": "trident" 
+      }
+    },
+    {
+      "position": "4",
+      "points": "78",
       "wins": "1",
       "Constructor": { 
         "name": "Rodin Motorsport", 
@@ -28,17 +37,8 @@
       }
     },
     {
-      "position": "4",
-      "points": "56",
-      "wins": "0",
-      "Constructor": { 
-        "name": "Trident", 
-        "constructorId": "trident" 
-      }
-    },
-    {
       "position": "5",
-      "points": "34",
+      "points": "47",
       "wins": "0",
       "Constructor": { 
         "name": "ART Grand Prix", 
@@ -47,7 +47,7 @@
     },
     {
       "position": "6",
-      "points": "21",
+      "points": "32",
       "wins": "0",
       "Constructor": { 
         "name": "MP Motorsport", 
@@ -56,7 +56,16 @@
     },
     {
       "position": "7",
-      "points": "20",
+      "points": "24",
+      "wins": "0",
+      "Constructor": { 
+        "name": "Hitech", 
+        "constructorId": "hitech" 
+      }
+    },
+    {
+      "position": "8",
+      "points": "22",
       "wins": "1",
       "Constructor": { 
         "name": "DAMS Lucas Oil", 
@@ -64,21 +73,12 @@
       }
     },
     {
-      "position": "8",
-      "points": "14",
+      "position": "9",
+      "points": "21",
       "wins": "1",
       "Constructor": { 
         "name": "Prema Racing", 
         "constructorId": "prema" 
-      }
-    },
-    {
-      "position": "9",
-      "points": "6",
-      "wins": "0",
-      "Constructor": { 
-        "name": "AIX Racing", 
-        "constructorId": "aix" 
       }
     },
     {
