@@ -1,26 +1,14 @@
-﻿Team,Points,Melbourne,Monaco,Barcelona,Spielberg,Silverstone,Spa-Francorchamps,Budapest,Monza,Madrid
-,,Melbourne,Monaco,Barcelona,Spielberg,Silverstone,Spa-Francorchamps,Budapest,Monza,Madrid
-,,06-08 Mar,04-07 Jun,12-14 Jun,26-28 Jun,03-05 Jul,17-19 Jul,24-26 Jul,04-06 Sept,11-13 Sept
-,,SR,SR,SR,SR,SR,SR,SR,SR,SR
-,,FR,FR,FR,FR,FR,FR,FR,FR,FR
-1,192,0,6,3,12,19,0,0,0,0
-Campos Racing,,27,42,48,18,17,0,0,0,0
-2,150,2,6,9,6,17,0,0,0,0
-TRIDENT,,18,17,4,41,30,0,0,0,0
-3,113,9,9,15,4,0,0,0,0,0
-Van Amersfoort Racing,,21,8,37,6,4,0,0,0,0
-4,85,1,5,0,4,5,0,0,0,0
-ART Grand Prix,,25,0,3,9,33,0,0,0,0
-5,80,3,8,1,9,0,0,0,0,0
-Rodin Motorsport,,4,29,12,12,2,0,0,0,0
-6,37,0,1,13,7,4,0,0,0,0
-PREMA Racing,,0,0,0,0,12,0,0,0,0
-7,32,0,7,7,5,0,0,0,0,0
-MP Motorsport,,1,6,0,6,0,0,0,0,0
-8,26,0,4,0,8,2,0,0,0,0
-Hitech,,2,0,0,10,0,0,0,0,0
-9,22,0,10,8,0,0,0,0,0,0
-DAMS Lucas Oil,,0,2,0,2,0,0,0,0,0
-10,21,0,0,0,0,9,0,0,0,0
-AIX Racing,,6,0,0,0,6,0,0,0,0
-,,,,,,,,,,
+﻿,Melbourne,,Monte Carlo,,Barcelona,,Spielberg,,Silverstone,,Spa-Francorchamps,,Budapest,,Monza,,Madrid,,,
+,06 - 08 Mar,,04 - 07 Jun,,12 - 14 Jun,,26 - 28 Jun,,03 - 05 Jul,,17 - 19 Jul,,24 - 26 Jul,,04 - 06 Sep,,11 - 13 Sep,,,
+,,,,,,,,,,,,,,,,,,,,
+Team,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,FR,Points
+Campos Racing,0,27,6,42,3,48,12,18,19,17,8,25,-,-,-,-,-,-,-,225
+TRIDENT,2,18,6,17,9,4,6,41,17,30,1,18,-,-,-,-,-,-,-,169
+Van Amersfoort Racing,9,21,9,8,15,37,4,6,0,4,0,18,-,-,-,-,-,-,-,131
+ART Grand Prix,1,25,5,0,0,3,4,9,5,33,6,19,-,-,-,-,-,-,-,110
+Rodin Motorsport,3,4,8,29,1,12,10,12,0,2,17,0,-,-,-,-,-,-,-,98
+MP Motorsport,0,1,7,6,7,0,5,6,0,0,13,20,-,-,-,-,-,-,-,65
+Hitech,0,2,4,0,0,0,8,10,2,0,11,4,-,-,-,-,-,-,-,41
+PREMA Racing,0,0,1,0,13,0,7,0,4,12,0,0,-,-,-,-,-,-,-,37
+DAMS Lucas Oil,0,0,10,2,8,0,0,2,0,0,0,0,-,-,-,-,-,-,-,22
+AIX Racing,0,6,0,0,0,0,0,0,9,6,0,0,-,-,-,-,-,-,-,21
