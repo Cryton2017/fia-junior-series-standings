@@ -1,28 +1,14 @@
-﻿Team,Points,Melbourne,Miami,Montréal,Monaco,Barcelona,Spielberg,Silverstone,Spa-Francorchamps,Budapest,Monza,Madrid,,,
-,,Melbourne,Miami,Montréal,Monaco,Barcelona,Spielberg,Silverstone,Spa-Francorchamps,Budapest,Monza,Madrid,Baku,Lusail,Yas Island
-,,06-08 Mar,01-03 May,22-24 May,04-07 Jun,12-14 Jun,26-28 Jun,03-05 Jul,17-19 Jul,24-26 Jul,04-06 Sept,11-13 Sept,24-26 Sept,27-29 Nov,04-06 Dec
-,,SR,SR,SR,SR,SR,SR,SR,SR,SR,SR,SR,SR,SR,SR
-,,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR,FR
-1,210,8,11,11,11,11,1,10,0,0,0,0,0,0,0
-Campos Racing,,25,12,1,28,16,33,32,0,0,0,0,0,0,0
-2,152,3,2,8,6,8,4,8,0,0,0,0,0,0,0
-MP Motorsport,,16,25,15,0,15,34,8,0,0,0,0,0,0,0
-3,140,7,9,6,3,1,5,0,0,0,0,0,0,0,0
-Rodin Motorsport,,0,0,43,28,18,8,12,0,0,0,0,0,0,0
-4,120,10,4,2,6,3,1,1,0,0,0,0,0,0,0
-Invicta Racing,,19,17,0,2,27,14,14,0,0,0,0,0,0,0
-5,91,5,0,0,2,11,2,9,0,0,0,0,0,0,0
-ART Grand Prix,,8,12,2,12,2,10,16,0,0,0,0,0,0,0
-6,79,1,1,4,12,2,3,6,0,0,0,0,0,0,0
-DAMS Lucas Oil,,2,18,0,16,9,1,4,0,0,0,0,0,0,0
-7,64,2,8,5,0,0,10,0,0,0,0,0,0,0,0
-TRIDENT,,16,0,2,0,17,4,0,0,0,0,0,0,0,0
-8,50,4,0,0,0,4,0,0,0,0,0,0,0,0,0
-Hitech,,16,12,6,8,0,0,0,0,0,0,0,0,0,0
-9,44,0,5,0,0,0,6,6,0,0,0,0,0,0,0
-Van Amersfoort Racing,,0,0,9,0,0,0,18,0,0,0,0,0,0,0
-10,38,0,0,0,0,0,8,0,0,0,0,0,0,0,0
-PREMA Racing,,2,8,16,4,0,0,0,0,0,0,0,0,0,0
-11,20,0,0,4,0,0,0,0,0,0,0,0,0,0,0
-AIX Racing,,0,0,10,6,0,0,0,0,0,0,0,0,0,0
-,,,,,,,,,,,,,,,
+﻿,Melbourne,,Miami Gardens,,Montréal,,Monte Carlo,,Barcelona,,Spielberg,,Silverstone,,Spa-Francorchamps,,Budapest,,Monza,,Madrid,,Baku,,Lusail,,Yas Marina,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Team,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,SR,FR,Points
+Campos Racing,8,25,11,12,11,1,11,28,11,16,1,33,10,32,5,15,0,31,-,-,-,-,-,-,-,-,-,-,261
+Invicta Racing,10,19,4,17,2,0,6,2,3,27,1,14,1,14,13,28,7,19,-,-,-,-,-,-,-,-,-,-,187
+MP Motorsport,3,16,2,25,8,15,6,0,8,15,4,34,8,8,1,10,11,2,-,-,-,-,-,-,-,-,-,-,176
+Rodin Motorsport,7,0,9,0,6,43,3,28,1,18,5,8,0,12,13,13,1,0,-,-,-,-,-,-,-,-,-,-,167
+ART Grand Prix,5,8,0,12,0,2,2,12,11,2,2,10,9,16,0,18,7,31,-,-,-,-,-,-,-,-,-,-,147
+DAMS Lucas Oil,1,2,1,18,4,0,12,16,2,9,3,1,6,4,8,0,8,8,-,-,-,-,-,-,-,-,-,-,103
+TRIDENT,2,16,8,0,5,2,0,0,0,17,10,4,0,0,0,0,6,13,-,-,-,-,-,-,-,-,-,-,83
+Hitech,4,16,0,12,0,6,0,8,4,0,0,0,0,0,0,10,0,0,-,-,-,-,-,-,-,-,-,-,60
+Van Amersfoort Racing,0,0,5,0,0,9,0,0,0,0,6,0,6,18,0,8,0,0,-,-,-,-,-,-,-,-,-,-,52
+PREMA Racing,0,2,0,8,0,16,0,4,0,0,8,0,0,0,0,2,0,0,-,-,-,-,-,-,-,-,-,-,40
+AIX Racing,0,0,0,0,4,10,0,6,0,0,0,0,0,0,0,0,0,0,-,-,-,-,-,-,-,-,-,-,20
