@@ -2,17 +2,17 @@
   "standings": [
     {
       "position": "1",
-      "points": "210",
-      "wins": "8",
+      "points": "187",
+      "wins": "4",
       "Constructor": {
-        "name": "Campos Racing",
-        "constructorId": "campos"
+        "name": "Invicta Racing",
+        "constructorId": "invicta"
       }
     },
     {
       "position": "2",
-      "points": "152",
-      "wins": "1",
+      "points": "176",
+      "wins": "2",
       "Constructor": {
         "name": "MP Motorsport",
         "constructorId": "mp_motorsport"
@@ -20,7 +20,7 @@
     },
     {
       "position": "3",
-      "points": "140",
+      "points": "167",
       "wins": "1",
       "Constructor": {
         "name": "Rodin Motorsport",
@@ -29,16 +29,7 @@
     },
     {
       "position": "4",
-      "points": "120",
-      "wins": "2",
-      "Constructor": {
-        "name": "Invicta Racing",
-        "constructorId": "invicta"
-      }
-    },
-    {
-      "position": "5",
-      "points": "91",
+      "points": "147",
       "wins": "1",
       "Constructor": {
         "name": "ART Grand Prix",
@@ -46,8 +37,8 @@
       }
     },
     {
-      "position": "6",
-      "points": "79",
+      "position": "5",
+      "points": "103",
       "wins": "0",
       "Constructor": {
         "name": "DAMS Lucas Oil",
@@ -55,8 +46,8 @@
       }
     },
     {
-      "position": "7",
-      "points": "64",
+      "position": "6",
+      "points": "83",
       "wins": "1",
       "Constructor": {
         "name": "TRIDENT",
@@ -64,8 +55,8 @@
       }
     },
     {
-      "position": "8",
-      "points": "50",
+      "position": "7",
+      "points": "60",
       "wins": "0",
       "Constructor": {
         "name": "Hitech",
@@ -73,8 +64,8 @@
       }
     },
     {
-      "position": "9",
-      "points": "44",
+      "position": "8",
+      "points": "52",
       "wins": "0",
       "Constructor": {
         "name": "Van Amersfoort Racing",
@@ -82,8 +73,8 @@
       }
     },
     {
-      "position": "10",
-      "points": "38",
+      "position": "9",
+      "points": "40",
       "wins": "0",
       "Constructor": {
         "name": "PREMA Racing",
@@ -91,7 +82,7 @@
       }
     },
     {
-      "position": "11",
+      "position": "10",
       "points": "20",
       "wins": "0",
       "Constructor": {
