@@ -2,17 +2,17 @@
   "standings": [
     {
       "position": "1",
-      "points": "187",
-      "wins": "4",
+      "points": "244",
+      "wins": "5",
       "Constructor": {
         "name": "Invicta Racing",
-        "constructorId": "invicta"
+        "constructorId": "unknown"
       }
     },
     {
       "position": "2",
-      "points": "176",
-      "wins": "2",
+      "points": "184",
+      "wins": "0",
       "Constructor": {
         "name": "MP Motorsport",
         "constructorId": "mp_motorsport"
@@ -20,7 +20,7 @@
     },
     {
       "position": "3",
-      "points": "167",
+      "points": "180",
       "wins": "1",
       "Constructor": {
         "name": "Rodin Motorsport",
@@ -29,7 +29,7 @@
     },
     {
       "position": "4",
-      "points": "147",
+      "points": "151",
       "wins": "1",
       "Constructor": {
         "name": "ART Grand Prix",
@@ -38,6 +38,15 @@
     },
     {
       "position": "5",
+      "points": "104",
+      "wins": "1",
+      "Constructor": {
+        "name": "TRIDENT",
+        "constructorId": "trident"
+      }
+    },
+    {
+      "position": "6",
       "points": "103",
       "wins": "0",
       "Constructor": {
@@ -46,17 +55,8 @@
       }
     },
     {
-      "position": "6",
-      "points": "83",
-      "wins": "1",
-      "Constructor": {
-        "name": "TRIDENT",
-        "constructorId": "trident"
-      }
-    },
-    {
       "position": "7",
-      "points": "60",
+      "points": "70",
       "wins": "0",
       "Constructor": {
         "name": "Hitech",
@@ -65,7 +65,7 @@
     },
     {
       "position": "8",
-      "points": "52",
+      "points": "53",
       "wins": "0",
       "Constructor": {
         "name": "Van Amersfoort Racing",
