@@ -2,15 +2,14 @@
   "races": [
     {
       "round": "1",
-      "slug": "australia",
-      "name": "Australian Grand Prix",
+      "slug": "melbourne",
+      "name": "Melbourne Grand Prix",
       "track": "Albert Park Circuit",
-      "series": ["F2"],
       "sessions": {
-        "practice": "2026-03-06T00:00:00Z",
-        "qualifying": "2026-03-06T06:30:00Z",
+        "practice": "2026-03-06T01:00:00Z",
+        "qualifying": "2026-03-06T04:30:00Z",
         "sprint": "2026-03-07T03:15:00Z",
-        "feature": "2026-03-08T00:35:00Z"
+        "feature": "2026-03-08T01:35:00Z"
       }
     },
     {
@@ -18,10 +17,9 @@
       "slug": "miami",
       "name": "Miami Grand Prix",
       "track": "Miami International Autodrome",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-05-01T14:00:00Z",
-        "qualifying": "2026-05-01T19:00:00Z",
+        "qualifying": "2026-05-01T18:00:00Z",
         "sprint": "2026-05-02T16:00:00Z",
         "feature": "2026-05-03T15:00:00Z"
       }
@@ -31,11 +29,10 @@
       "slug": "canada",
       "name": "Canadian Grand Prix",
       "track": "Circuit Gilles-Villeneuve",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-05-22T14:00:00Z",
-        "qualifying": "2026-05-22T19:00:00Z",
-        "sprint": "2026-05-23T17:15:00Z",
+        "qualifying": "2026-05-22T18:00:00Z",
+        "sprint": "2026-05-23T16:00:00Z",
         "feature": "2026-05-24T15:00:00Z"
       }
     },
@@ -44,20 +41,18 @@
       "slug": "monaco",
       "name": "Monaco Grand Prix",
       "track": "Circuit de Monaco",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-06-04T13:00:00Z",
         "qualifying": "2026-06-05T13:10:00Z",
         "sprint": "2026-06-06T12:15:00Z",
-        "feature": "2026-06-07T07:40:00Z"
+        "feature": "2026-06-07T07:25:00Z"
       }
     },
     {
       "round": "5",
-      "slug": "spain",
+      "slug": "barcelona",
       "name": "Spanish Grand Prix",
       "track": "Circuit de Barcelona-Catalunya",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-06-12T09:05:00Z",
         "qualifying": "2026-06-12T13:55:00Z",
@@ -67,119 +62,110 @@
     },
     {
       "round": "6",
-      "slug": "austria",
+      "slug": "spielberg",
       "name": "Austrian Grand Prix",
       "track": "Red Bull Ring",
-      "series": ["F2"],
       "sessions": {
-        "practice": "2026-06-26T08:05:00Z",
-        "qualifying": "2026-06-26T12:55:00Z",
-        "sprint": "2026-06-27T11:30:00Z",
-        "feature": "2026-06-28T08:00:00Z"
+        "practice": "2026-06-26T09:05:00Z",
+        "qualifying": "2026-06-26T13:55:00Z",
+        "sprint": "2026-06-27T12:15:00Z",
+        "feature": "2026-06-28T09:35:00Z"
       }
     },
     {
       "round": "7",
-      "slug": "great-britain",
+      "slug": "silverstone",
       "name": "British Grand Prix",
       "track": "Silverstone Circuit",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-07-03T09:05:00Z",
-        "qualifying": "2026-07-03T14:05:00Z",
+        "qualifying": "2026-07-03T13:55:00Z",
         "sprint": "2026-07-04T12:15:00Z",
-        "feature": "2026-07-05T08:55:00Z"
+        "feature": "2026-07-05T09:35:00Z"
       }
     },
     {
       "round": "8",
-      "slug": "belgium",
+      "slug": "spa",
       "name": "Belgian Grand Prix",
       "track": "Circuit de Spa-Francorchamps",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-07-17T09:05:00Z",
-        "qualifying": "2026-07-17T14:00:00Z",
+        "qualifying": "2026-07-17T13:55:00Z",
         "sprint": "2026-07-18T12:15:00Z",
-        "feature": "2026-07-19T08:00:00Z"
+        "feature": "2026-07-19T09:35:00Z"
       }
     },
     {
       "round": "9",
-      "slug": "hungary",
+      "slug": "budapest",
       "name": "Hungarian Grand Prix",
       "track": "Hungaroring",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-07-24T09:05:00Z",
-        "qualifying": "2026-07-24T14:00:00Z",
+        "qualifying": "2026-07-24T13:55:00Z",
         "sprint": "2026-07-25T12:15:00Z",
-        "feature": "2026-07-26T08:05:00Z"
+        "feature": "2026-07-26T09:35:00Z"
       }
     },
     {
       "round": "10",
-      "slug": "italy",
+      "slug": "monza",
       "name": "Italian Grand Prix",
       "track": "Autodromo Nazionale Monza",
-      "series": ["F2"],
       "sessions": {
-        "practice": "2026-09-04T09:00:00Z",
-        "qualifying": "2026-09-04T14:00:00Z",
+        "practice": "2026-09-04T09:05:00Z",
+        "qualifying": "2026-09-04T13:55:00Z",
         "sprint": "2026-09-05T12:15:00Z",
-        "feature": "2026-09-06T08:05:00Z"
+        "feature": "2026-09-06T08:35:00Z"
       }
     },
     {
       "round": "11",
       "slug": "madrid",
       "name": "Madrid Grand Prix",
-      "track": "Madring",
-      "series": ["F2"],
+      "track": "IFEMA Madrid",
       "sessions": {
-        "practice": "2026-09-11T08:05:00Z",
-        "qualifying": "2026-09-11T14:00:00Z",
+        "practice": "2026-09-11T09:05:00Z",
+        "qualifying": "2026-09-11T14:30:00Z",
         "sprint": "2026-09-12T12:15:00Z",
-        "feature": "2026-09-13T09:30:00Z"
+        "feature": "2026-09-13T09:35:00Z"
       }
     },
     {
       "round": "12",
-      "slug": "azerbaijan",
+      "slug": "baku",
       "name": "Azerbaijan Grand Prix",
       "track": "Baku City Circuit",
-      "series": ["F2"],
       "sessions": {
-        "practice": "2026-09-25T07:00:00Z",
-        "qualifying": "2026-09-25T11:00:00Z",
-        "sprint": "2026-09-26T10:15:00Z",
-        "feature": "2026-09-27T07:35:00Z"
+        "practice": "2026-09-24T07:05:00Z",
+        "qualifying": "2026-09-24T11:00:00Z",
+        "sprint": "2026-09-25T10:15:00Z",
+        "feature": "2026-09-26T07:35:00Z"
       }
     },
     {
       "round": "13",
-      "slug": "qatar",
+      "slug": "lusail",
       "name": "Qatar Grand Prix",
       "track": "Lusail International Circuit",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-11-27T11:05:00Z",
         "qualifying": "2026-11-27T15:00:00Z",
-        "sprint": "2026-11-28T16:15:00Z",
-        "feature": "2026-11-29T17:00:00Z"
+        "sprint": "2026-11-28T14:15:00Z",
+        "feature": "2026-11-29T11:35:00Z"
       }
     },
     {
       "round": "14",
-      "slug": "abu-dhabi",
+      "slug": "yas-marina",
       "name": "Abu Dhabi Grand Prix",
       "track": "Yas Marina Circuit",
-      "series": ["F2"],
       "sessions": {
         "practice": "2026-12-04T07:05:00Z",
         "qualifying": "2026-12-04T11:00:00Z",
         "sprint": "2026-12-05T12:15:00Z",
-        "feature": "2026-12-06T09:15:00Z"
+        "feature": "2026-12-06T09:25:00Z"
       }
     }
   ]
