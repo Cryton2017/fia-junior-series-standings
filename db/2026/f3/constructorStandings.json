@@ -2,7 +2,7 @@
   "standings": [
     {
       "position": "1",
-      "points": "269",
+      "points": "277",
       "wins": "6",
       "Constructor": {
         "name": "Campos Racing",
@@ -11,8 +11,8 @@
     },
     {
       "position": "2",
-      "points": "196",
-      "wins": "2",
+      "points": "213",
+      "wins": "1",
       "Constructor": {
         "name": "TRIDENT",
         "constructorId": "trident"
@@ -20,7 +20,16 @@
     },
     {
       "position": "3",
-      "points": "132",
+      "points": "155",
+      "wins": "1",
+      "Constructor": {
+        "name": "ART Grand Prix",
+        "constructorId": "art_grand_prix"
+      }
+    },
+    {
+      "position": "4",
+      "points": "155",
       "wins": "1",
       "Constructor": {
         "name": "Van Amersfoort Racing",
@@ -28,7 +37,16 @@
       }
     },
     {
-      "position": "4",
+      "position": "5",
+      "points": "131",
+      "wins": "0",
+      "Constructor": {
+        "name": "MP Motorsport",
+        "constructorId": "mp_motorsport"
+      }
+    },
+    {
+      "position": "6",
       "points": "121",
       "wins": "1",
       "Constructor": {
@@ -37,26 +55,17 @@
       }
     },
     {
-      "position": "5",
-      "points": "119",
-      "wins": "1",
-      "Constructor": {
-        "name": "ART Grand Prix",
-        "constructorId": "art_grand_prix"
-      }
-    },
-    {
-      "position": "6",
-      "points": "102",
-      "wins": "0",
-      "Constructor": {
-        "name": "MP Motorsport",
-        "constructorId": "mp_motorsport"
-      }
-    },
-    {
       "position": "7",
-      "points": "50",
+      "points": "53",
+      "wins": "2",
+      "Constructor": {
+        "name": "DAMS Lucas Oil",
+        "constructorId": "dams"
+      }
+    },
+    {
+      "position": "8",
+      "points": "51",
       "wins": "1",
       "Constructor": {
         "name": "PREMA Racing",
@@ -64,30 +73,21 @@
       }
     },
     {
-      "position": "8",
+      "position": "9",
+      "points": "42",
+      "wins": "0",
+      "Constructor": {
+        "name": "AIX Racing",
+        "constructorId": "aix"
+      }
+    },
+    {
+      "position": "10",
       "points": "41",
       "wins": "1",
       "Constructor": {
         "name": "Hitech",
         "constructorId": "hitech"
-      }
-    },
-    {
-      "position": "9",
-      "points": "26",
-      "wins": "1",
-      "Constructor": {
-        "name": "DAMS Lucas Oil",
-        "constructorId": "dams"
-      }
-    },
-    {
-      "position": "10",
-      "points": "23",
-      "wins": "0",
-      "Constructor": {
-        "name": "AIX Racing",
-        "constructorId": "aix"
       }
     }
   ]

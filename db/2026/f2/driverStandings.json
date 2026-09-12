@@ -2,7 +2,7 @@
   "standings": [
     {
       "position": "1",
-      "points": "167",
+      "points": "177",
       "wins": "6",
       "Driver": {
         "givenName": "Nikola",
@@ -17,22 +17,7 @@
     },
     {
       "position": "2",
-      "points": "147",
-      "wins": "2",
-      "Driver": {
-        "givenName": "Gabriele",
-        "familyName": "Mini"
-      },
-      "Constructors": [
-        {
-          "name": "MP Motorsport",
-          "constructorId": "mp_motorsport"
-        }
-      ]
-    },
-    {
-      "position": "3",
-      "points": "145",
+      "points": "166",
       "wins": "2",
       "Driver": {
         "givenName": "Rafael",
@@ -40,14 +25,29 @@
       },
       "Constructors": [
         {
-          "name": "Invicta Racing",
+          "name": "Invicta",
           "constructorId": "invicta"
         }
       ]
     },
     {
+      "position": "3",
+      "points": "147",
+      "wins": "2",
+      "Driver": {
+        "givenName": "Unknown",
+        "familyName": "Mini"
+      },
+      "Constructors": [
+        {
+          "name": "Unknown",
+          "constructorId": "unknown"
+        }
+      ]
+    },
+    {
       "position": "4",
-      "points": "108",
+      "points": "118",
       "wins": "0",
       "Driver": {
         "givenName": "Alex",
@@ -62,16 +62,16 @@
     },
     {
       "position": "5",
-      "points": "94",
+      "points": "114",
       "wins": "3",
       "Driver": {
-        "givenName": "Noel",
+        "givenName": "Unknown",
         "familyName": "Leon"
       },
       "Constructors": [
         {
-          "name": "Campos Racing",
-          "constructorId": "campos"
+          "name": "Unknown",
+          "constructorId": "unknown"
         }
       ]
     },
@@ -107,7 +107,22 @@
     },
     {
       "position": "8",
-      "points": "65",
+      "points": "78",
+      "wins": "4",
+      "Driver": {
+        "givenName": "Joshua",
+        "familyName": "Dürksen"
+      },
+      "Constructors": [
+        {
+          "name": "Invicta",
+          "constructorId": "invicta"
+        }
+      ]
+    },
+    {
+      "position": "9",
+      "points": "66",
       "wins": "0",
       "Driver": {
         "givenName": "Laurens",
@@ -121,23 +136,8 @@
       ]
     },
     {
-      "position": "9",
-      "points": "59",
-      "wins": "1",
-      "Driver": {
-        "givenName": "Martinius",
-        "familyName": "Stenshorne"
-      },
-      "Constructors": [
-        {
-          "name": "Rodin Motorsport",
-          "constructorId": "rodin"
-        }
-      ]
-    },
-    {
       "position": "10",
-      "points": "59",
+      "points": "63",
       "wins": "0",
       "Driver": {
         "givenName": "Tasanapol",
@@ -152,37 +152,22 @@
     },
     {
       "position": "11",
-      "points": "42",
-      "wins": "2",
+      "points": "62",
+      "wins": "1",
       "Driver": {
-        "givenName": "Joshua",
-        "familyName": "Dürksen"
+        "givenName": "Martinius",
+        "familyName": "Stenshorne"
       },
       "Constructors": [
         {
-          "name": "Invicta Racing",
-          "constructorId": "invicta"
+          "name": "Rodin Motorsport",
+          "constructorId": "rodin"
         }
       ]
     },
     {
       "position": "12",
-      "points": "38",
-      "wins": "0",
-      "Driver": {
-        "givenName": "Rafael",
-        "familyName": "Villagomez"
-      },
-      "Constructors": [
-        {
-          "name": "Van Amersfoort Racing",
-          "constructorId": "van_amersfoort"
-        }
-      ]
-    },
-    {
-      "position": "13",
-      "points": "34",
+      "points": "44",
       "wins": "0",
       "Driver": {
         "givenName": "Ritomo",
@@ -196,8 +181,38 @@
       ]
     },
     {
+      "position": "13",
+      "points": "38",
+      "wins": "1",
+      "Driver": {
+        "givenName": "John",
+        "familyName": "Bennett"
+      },
+      "Constructors": [
+        {
+          "name": "TRIDENT",
+          "constructorId": "trident"
+        }
+      ]
+    },
+    {
       "position": "14",
-      "points": "29",
+      "points": "38",
+      "wins": "0",
+      "Driver": {
+        "givenName": "Unknown",
+        "familyName": "Villagomez"
+      },
+      "Constructors": [
+        {
+          "name": "Unknown",
+          "constructorId": "unknown"
+        }
+      ]
+    },
+    {
+      "position": "15",
+      "points": "37",
       "wins": "0",
       "Driver": {
         "givenName": "Oliver",
@@ -211,7 +226,7 @@
       ]
     },
     {
-      "position": "15",
+      "position": "16",
       "points": "28",
       "wins": "0",
       "Driver": {
@@ -226,7 +241,7 @@
       ]
     },
     {
-      "position": "16",
+      "position": "17",
       "points": "26",
       "wins": "0",
       "Driver": {
@@ -241,7 +256,7 @@
       ]
     },
     {
-      "position": "17",
+      "position": "18",
       "points": "24",
       "wins": "0",
       "Driver": {
@@ -256,23 +271,8 @@
       ]
     },
     {
-      "position": "18",
-      "points": "18",
-      "wins": "1",
-      "Driver": {
-        "givenName": "John",
-        "familyName": "Bennett"
-      },
-      "Constructors": [
-        {
-          "name": "TRIDENT",
-          "constructorId": "trident"
-        }
-      ]
-    },
-    {
       "position": "19",
-      "points": "14",
+      "points": "15",
       "wins": "0",
       "Driver": {
         "givenName": "Nico",
