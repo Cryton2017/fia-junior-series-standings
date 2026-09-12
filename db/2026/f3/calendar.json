@@ -9,7 +9,7 @@
         "practice": "2026-03-05T21:50:00Z",
         "qualifying": "2026-03-06T03:00:00Z",
         "sprint": "2026-03-07T00:15:00Z",
-        "feature": "2026-03-07T22:05:00Z"
+        "feature": "2026-03-07T21:50:00Z"
       }
     },
     {
@@ -18,10 +18,10 @@
       "name": "Monaco Grand Prix",
       "track": "Circuit de Monaco",
       "sessions": {
-        "practice": "2026-06-04T11:10:00Z",
-        "qualifying": "2026-06-05T09:10:00Z",
+        "practice": "2026-06-04T11:25:00Z",
+        "qualifying": "2026-06-05T09:05:00Z",
         "sprint": "2026-06-06T08:45:00Z",
-        "feature": "2026-06-07T06:00:00Z"
+        "feature": "2026-06-07T05:45:00Z"
       }
     },
     {
@@ -32,8 +32,8 @@
       "sessions": {
         "practice": "2026-06-12T07:55:00Z",
         "qualifying": "2026-06-12T13:00:00Z",
-        "sprint": "2026-06-13T08:40:00Z",
-        "feature": "2026-06-14T08:05:00Z"
+        "sprint": "2026-06-13T08:05:00Z",
+        "feature": "2026-06-14T06:40:00Z"
       }
     },
     {
@@ -44,8 +44,8 @@
       "sessions": {
         "practice": "2026-06-26T07:55:00Z",
         "qualifying": "2026-06-26T13:00:00Z",
-        "sprint": "2026-06-27T08:40:00Z",
-        "feature": "2026-06-28T08:05:00Z"
+        "sprint": "2026-06-27T08:05:00Z",
+        "feature": "2026-06-28T06:40:00Z"
       }
     },
     {
@@ -54,10 +54,10 @@
       "name": "British Grand Prix",
       "track": "Silverstone Circuit",
       "sessions": {
-        "practice": "2026-07-03T07:40:00Z",
-        "qualifying": "2026-07-03T13:10:00Z",
-        "sprint": "2026-07-04T08:20:00Z",
-        "feature": "2026-07-05T07:20:00Z"
+        "practice": "2026-07-03T07:50:00Z",
+        "qualifying": "2026-07-03T13:00:00Z",
+        "sprint": "2026-07-04T08:35:00Z",
+        "feature": "2026-07-05T07:25:00Z"
       }
     },
     {
@@ -68,8 +68,8 @@
       "sessions": {
         "practice": "2026-07-17T07:55:00Z",
         "qualifying": "2026-07-17T13:00:00Z",
-        "sprint": "2026-07-18T08:40:00Z",
-        "feature": "2026-07-19T08:05:00Z"
+        "sprint": "2026-07-18T08:00:00Z",
+        "feature": "2026-07-19T06:40:00Z"
       }
     },
     {
@@ -80,8 +80,8 @@
       "sessions": {
         "practice": "2026-07-24T07:55:00Z",
         "qualifying": "2026-07-24T13:00:00Z",
-        "sprint": "2026-07-25T08:40:00Z",
-        "feature": "2026-07-26T08:05:00Z"
+        "sprint": "2026-07-25T08:05:00Z",
+        "feature": "2026-07-26T06:40:00Z"
       }
     },
     {
@@ -90,10 +90,10 @@
       "name": "Italian Grand Prix",
       "track": "Autodromo Nazionale Monza",
       "sessions": {
-        "practice": "2026-09-04T07:55:00Z",
+        "practice": "2026-09-04T06:35:00Z",
         "qualifying": "2026-09-04T13:00:00Z",
         "sprint": "2026-09-05T07:30:00Z",
-        "feature": "2026-09-06T06:30:00Z"
+        "feature": "2026-09-06T06:15:00Z"
       }
     },
     {
