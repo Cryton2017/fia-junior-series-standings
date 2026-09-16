@@ -17,7 +17,7 @@
     },
     {
       "position": "2",
-      "points": "166",
+      "points": "170",
       "wins": "2",
       "Driver": {
         "givenName": "Rafael",
@@ -32,7 +32,7 @@
     },
     {
       "position": "3",
-      "points": "147",
+      "points": "153",
       "wins": "2",
       "Driver": {
         "givenName": "Unknown",
@@ -47,7 +47,7 @@
     },
     {
       "position": "4",
-      "points": "118",
+      "points": "139",
       "wins": "0",
       "Driver": {
         "givenName": "Alex",
@@ -62,7 +62,7 @@
     },
     {
       "position": "5",
-      "points": "114",
+      "points": "119",
       "wins": "3",
       "Driver": {
         "givenName": "Unknown",
@@ -77,6 +77,36 @@
     },
     {
       "position": "6",
+      "points": "106",
+      "wins": "1",
+      "Driver": {
+        "givenName": "Dino",
+        "familyName": "Beganovic"
+      },
+      "Constructors": [
+        {
+          "name": "DAMS Lucas Oil",
+          "constructorId": "dams"
+        }
+      ]
+    },
+    {
+      "position": "7",
+      "points": "90",
+      "wins": "4",
+      "Driver": {
+        "givenName": "Joshua",
+        "familyName": "Dürksen"
+      },
+      "Constructors": [
+        {
+          "name": "Invicta",
+          "constructorId": "invicta"
+        }
+      ]
+    },
+    {
+      "position": "8",
       "points": "88",
       "wins": "1",
       "Driver": {
@@ -91,38 +121,8 @@
       ]
     },
     {
-      "position": "7",
-      "points": "79",
-      "wins": "0",
-      "Driver": {
-        "givenName": "Dino",
-        "familyName": "Beganovic"
-      },
-      "Constructors": [
-        {
-          "name": "DAMS Lucas Oil",
-          "constructorId": "dams"
-        }
-      ]
-    },
-    {
-      "position": "8",
-      "points": "78",
-      "wins": "4",
-      "Driver": {
-        "givenName": "Joshua",
-        "familyName": "Dürksen"
-      },
-      "Constructors": [
-        {
-          "name": "Invicta",
-          "constructorId": "invicta"
-        }
-      ]
-    },
-    {
       "position": "9",
-      "points": "66",
+      "points": "72",
       "wins": "0",
       "Driver": {
         "givenName": "Laurens",
@@ -137,7 +137,7 @@
     },
     {
       "position": "10",
-      "points": "63",
+      "points": "71",
       "wins": "0",
       "Driver": {
         "givenName": "Tasanapol",
@@ -152,7 +152,7 @@
     },
     {
       "position": "11",
-      "points": "62",
+      "points": "70",
       "wins": "1",
       "Driver": {
         "givenName": "Martinius",
@@ -167,8 +167,8 @@
     },
     {
       "position": "12",
-      "points": "44",
-      "wins": "0",
+      "points": "70",
+      "wins": "1",
       "Driver": {
         "givenName": "Ritomo",
         "familyName": "Miyata"
@@ -242,22 +242,22 @@
     },
     {
       "position": "17",
-      "points": "26",
+      "points": "28",
       "wins": "0",
       "Driver": {
-        "givenName": "Colton",
-        "familyName": "Herta"
+        "givenName": "Emerson",
+        "familyName": "Fittipaldi"
       },
       "Constructors": [
         {
-          "name": "Hitech Pulse-Eight",
-          "constructorId": "hitech"
+          "name": "AIX Racing",
+          "constructorId": "aix"
         }
       ]
     },
     {
       "position": "18",
-      "points": "24",
+      "points": "26",
       "wins": "0",
       "Driver": {
         "givenName": "Roman",
@@ -272,6 +272,21 @@
     },
     {
       "position": "19",
+      "points": "26",
+      "wins": "0",
+      "Driver": {
+        "givenName": "Colton",
+        "familyName": "Herta"
+      },
+      "Constructors": [
+        {
+          "name": "Hitech Pulse-Eight",
+          "constructorId": "hitech"
+        }
+      ]
+    },
+    {
+      "position": "20",
       "points": "15",
       "wins": "0",
       "Driver": {
@@ -286,8 +301,8 @@
       ]
     },
     {
-      "position": "20",
-      "points": "12",
+      "position": "21",
+      "points": "13",
       "wins": "0",
       "Driver": {
         "givenName": "Mari",
@@ -297,21 +312,6 @@
         {
           "name": "PREMA Racing",
           "constructorId": "prema"
-        }
-      ]
-    },
-    {
-      "position": "21",
-      "points": "10",
-      "wins": "0",
-      "Driver": {
-        "givenName": "Emerson",
-        "familyName": "Fittipaldi"
-      },
-      "Constructors": [
-        {
-          "name": "AIX Racing",
-          "constructorId": "aix"
         }
       ]
     },
