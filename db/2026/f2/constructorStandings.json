@@ -2,8 +2,8 @@
   "standings": [
     {
       "position": "2",
-      "points": "260",
-      "wins": "5",
+      "points": "-",
+      "wins": "0",
       "Constructor": {
         "name": "Invicta Racing",
         "constructorId": "unknown"
@@ -11,8 +11,8 @@
     },
     {
       "position": "3",
-      "points": "209",
-      "wins": "1",
+      "points": "-",
+      "wins": "2",
       "Constructor": {
         "name": "Rodin Motorsport",
         "constructorId": "rodin"
@@ -20,8 +20,8 @@
     },
     {
       "position": "4",
-      "points": "190",
-      "wins": "0",
+      "points": "-",
+      "wins": "2",
       "Constructor": {
         "name": "MP Motorsport",
         "constructorId": "mp_motorsport"
@@ -29,7 +29,16 @@
     },
     {
       "position": "5",
-      "points": "159",
+      "points": "-",
+      "wins": "2",
+      "Constructor": {
+        "name": "DAMS Lucas Oil",
+        "constructorId": "dams"
+      }
+    },
+    {
+      "position": "6",
+      "points": "-",
       "wins": "1",
       "Constructor": {
         "name": "ART Grand Prix",
@@ -37,17 +46,8 @@
       }
     },
     {
-      "position": "6",
-      "points": "132",
-      "wins": "1",
-      "Constructor": {
-        "name": "DAMS Lucas Oil",
-        "constructorId": "dams"
-      }
-    },
-    {
       "position": "7",
-      "points": "110",
+      "points": "-",
       "wins": "1",
       "Constructor": {
         "name": "TRIDENT",
@@ -56,7 +56,7 @@
     },
     {
       "position": "8",
-      "points": "96",
+      "points": "-",
       "wins": "1",
       "Constructor": {
         "name": "Hitech",
@@ -65,7 +65,7 @@
     },
     {
       "position": "9",
-      "points": "53",
+      "points": "-",
       "wins": "0",
       "Constructor": {
         "name": "Van Amersfoort Racing",
@@ -74,7 +74,7 @@
     },
     {
       "position": "10",
-      "points": "41",
+      "points": "-",
       "wins": "0",
       "Constructor": {
         "name": "PREMA Racing",
@@ -83,7 +83,7 @@
     },
     {
       "position": "11",
-      "points": "38",
+      "points": "-",
       "wins": "0",
       "Constructor": {
         "name": "AIX Racing",
