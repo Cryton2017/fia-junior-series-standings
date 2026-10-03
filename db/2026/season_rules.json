@@ -4,26 +4,26 @@
     "f2": { "featureLaps": 32, "featureDistance": "173.184 km", "hasSprint": true, "sprintLaps": 23 },
     "f3": { "featureLaps": 22, "featureDistance": "119.064 km", "hasSprint": true, "sprintLaps": 19 }
   },
-  "saudi-arabia": {
+  "jeddah": {
     "f1": { "featureLaps": 50, "featureDistance": "308.450 km", "hasSprint": false },
     "f2": { "featureLaps": 28, "featureDistance": "172.872 km", "hasSprint": true, "sprintLaps": 20 }
   },
-  "australia": {
+  "albert_park": {
     "f1": { "featureLaps": 58, "featureDistance": "306.124 km", "hasSprint": false },
     "f2": { "featureLaps": 33, "featureDistance": "174.174 km", "hasSprint": true, "sprintLaps": 23 },
     "f3": { "featureLaps": 22, "featureDistance": "116.116 km", "hasSprint": true, "sprintLaps": 20 }
   },
-  "japan": {
+  "suzuka": {
     "f1": { "featureLaps": 53, "featureDistance": "307.471 km", "hasSprint": false }
   },
-  "china": {
+  "shanghai": {
     "f1": { "featureLaps": 56, "featureDistance": "305.066 km", "hasSprint": true, "sprintLaps": 19 }
   },
   "miami": {
     "f1": { "featureLaps": 57, "featureDistance": "308.326 km", "hasSprint": true, "sprintLaps": 19 },
     "f2": { "featureLaps": 32, "featureDistance": "173.184 km", "hasSprint": true, "sprintLaps": 23 }
   },
-  "emilia-romagna": {
+  "imola": {
     "f1": { "featureLaps": 63, "featureDistance": "309.049 km", "hasSprint": false },
     "f2": { "featureLaps": 35, "featureDistance": "171.815 km", "hasSprint": true, "sprintLaps": 25 },
     "f3": { "featureLaps": 22, "featureDistance": "107.998 km", "hasSprint": true, "sprintLaps": 18 }
@@ -33,70 +33,70 @@
     "f2": { "featureLaps": 42, "featureDistance": "140.154 km", "hasSprint": true, "sprintLaps": 30 },
     "f3": { "featureLaps": 27, "featureDistance": "90.099 km", "hasSprint": true, "sprintLaps": 23 }
   },
-  "canada": {
+  "villeneuve": {
     "f1": { "featureLaps": 70, "featureDistance": "305.270 km", "hasSprint": true, "sprintLaps": 23 },
     "f2": { "featureLaps": 39, "featureDistance": "170.079 km", "hasSprint": true, "sprintLaps": 28 }
   },
-  "spain": {
+  "catalunya": {
     "f1": { "featureLaps": 66, "featureDistance": "307.236 km", "hasSprint": false },
     "f2": { "featureLaps": 37, "featureDistance": "172.309 km", "hasSprint": true, "sprintLaps": 26 },
     "f3": { "featureLaps": 25, "featureDistance": "116.425 km", "hasSprint": true, "sprintLaps": 21 }
   },
-  "austria": {
+  "red_bull_ring": {
     "f1": { "featureLaps": 71, "featureDistance": "306.452 km", "hasSprint": true, "sprintLaps": 24 },
     "f2": { "featureLaps": 40, "featureDistance": "172.720 km", "hasSprint": true, "sprintLaps": 28 },
     "f3": { "featureLaps": 26, "featureDistance": "112.268 km", "hasSprint": true, "sprintLaps": 21 }
   },
-  "great-britain": {
+  "silverstone": {
     "f1": { "featureLaps": 52, "featureDistance": "306.198 km", "hasSprint": true, "sprintLaps": 17 },
     "f2": { "featureLaps": 29, "featureDistance": "170.839 km", "hasSprint": true, "sprintLaps": 21 },
     "f3": { "featureLaps": 22, "featureDistance": "129.602 km", "hasSprint": true, "sprintLaps": 18 }
   },
-  "hungary": {
+  "hungaroring": {
     "f1": { "featureLaps": 70, "featureDistance": "306.630 km", "hasSprint": false },
     "f2": { "featureLaps": 37, "featureDistance": "162.097 km", "hasSprint": true, "sprintLaps": 28 },
     "f3": { "featureLaps": 24, "featureDistance": "105.144 km", "hasSprint": true, "sprintLaps": 19 }
   },
-  "belgium": {
+  "spa": {
     "f1": { "featureLaps": 44, "featureDistance": "308.052 km", "hasSprint": false },
     "f2": { "featureLaps": 25, "featureDistance": "175.100 km", "hasSprint": true, "sprintLaps": 18 },
     "f3": { "featureLaps": 15, "featureDistance": "105.060 km", "hasSprint": true, "sprintLaps": 12 }
   },
-  "netherlands": {
+  "zandvoort": {
     "f1": { "featureLaps": 72, "featureDistance": "306.587 km", "hasSprint": true, "sprintLaps": 24 }
   },
-  "italy": {
+  "monza": {
     "f1": { "featureLaps": 53, "featureDistance": "306.720 km", "hasSprint": false },
     "f2": { "featureLaps": 30, "featureDistance": "173.790 km", "hasSprint": true, "sprintLaps": 21 },
     "f3": { "featureLaps": 22, "featureDistance": "127.446 km", "hasSprint": true, "sprintLaps": 18 }
   },
-  "azerbaijan": {
+  "baku": {
     "f1": { "featureLaps": 51, "featureDistance": "306.049 km", "hasSprint": false },
     "f2": { "featureLaps": 29, "featureDistance": "174.087 km", "hasSprint": true, "sprintLaps": 21 }
   },
-  "malaysia": {
+  "sepang": {
     "f1": { "featureLaps": 56, "featureDistance": "310.398 km", "hasSprint": false }
   },
-  "singapore": {
+  "marina_bay": {
     "f1": { "featureLaps": 62, "featureDistance": "306.143 km", "hasSprint": true, "sprintLaps": 21 }
   },
-  "united-states": {
+  "americas": {
     "f1": { "featureLaps": 56, "featureDistance": "308.405 km", "hasSprint": true, "sprintLaps": 19 }
   },
-  "mexico": {
+  "rodriguez": {
     "f1": { "featureLaps": 71, "featureDistance": "305.354 km", "hasSprint": false }
   },
-  "brazil": {
+  "interlagos": {
     "f1": { "featureLaps": 71, "featureDistance": "305.879 km", "hasSprint": true, "sprintLaps": 24 }
   },
-  "las-vegas": {
+  "vegas": {
     "f1": { "featureLaps": 50, "featureDistance": "310.050 km", "hasSprint": false }
   },
-  "qatar": {
+  "losail": {
     "f1": { "featureLaps": 57, "featureDistance": "308.611 km", "hasSprint": true, "sprintLaps": 19 },
     "f2": { "featureLaps": 32, "featureDistance": "173.408 km", "hasSprint": true, "sprintLaps": 23 }
   },
-  "abu-dhabi": {
+  "yas_marina": {
     "f1": { "featureLaps": 58, "featureDistance": "306.183 km", "hasSprint": false },
     "f2": { "featureLaps": 33, "featureDistance": "174.273 km", "hasSprint": true, "sprintLaps": 23 }
   }

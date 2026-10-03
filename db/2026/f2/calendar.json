@@ -2,7 +2,7 @@
   "races": [
     {
       "round": "1",
-      "slug": "melbourne",
+      "slug": "albert_park",
       "name": "Melbourne Grand Prix",
       "track": "Albert Park Circuit",
       "sessions": {
@@ -26,7 +26,7 @@
     },
     {
       "round": "3",
-      "slug": "canada",
+      "slug": "villeneuve",
       "name": "Canadian Grand Prix",
       "track": "Circuit Gilles-Villeneuve",
       "sessions": {
@@ -50,7 +50,7 @@
     },
     {
       "round": "5",
-      "slug": "barcelona",
+      "slug": "catalunya",
       "name": "Spanish Grand Prix",
       "track": "Circuit de Barcelona-Catalunya",
       "sessions": {
@@ -62,7 +62,7 @@
     },
     {
       "round": "6",
-      "slug": "spielberg",
+      "slug": "red_bull_ring",
       "name": "Austrian Grand Prix",
       "track": "Red Bull Ring",
       "sessions": {
@@ -98,7 +98,7 @@
     },
     {
       "round": "9",
-      "slug": "budapest",
+      "slug": "hungaroring",
       "name": "Hungarian Grand Prix",
       "track": "Hungaroring",
       "sessions": {
@@ -148,7 +148,7 @@
     },
     {
       "round": "13",
-      "slug": "lusail",
+      "slug": "losail",
       "name": "Qatar Grand Prix",
       "track": "Lusail International Circuit",
       "sessions": {
@@ -160,7 +160,7 @@
     },
     {
       "round": "14",
-      "slug": "yas-marina",
+      "slug": "yas_marina",
       "name": "Abu Dhabi Grand Prix",
       "track": "Yas Marina Circuit",
       "sessions": {
