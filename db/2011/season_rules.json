@@ -1,0 +1,147 @@
+{
+  "albert_park": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "sepang": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "shanghai": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "istanbul": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "catalunya": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "monaco": {
+    "f1": {
+      "featureLaps": 78,
+      "featureDistance": "260.286 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 42,
+      "featureDistance": "140.154 km",
+      "hasSprint": true,
+      "sprintLaps": 30
+    },
+    "f3": {
+      "featureLaps": 27,
+      "featureDistance": "90.099 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    }
+  },
+  "villeneuve": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "valencia": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "silverstone": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "nurburgring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "hungaroring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "spa": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "monza": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "marina_bay": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "suzuka": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "yeongam": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "buddh": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "yas_marina": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "interlagos": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "red_bull_ring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "hungaroring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "silverstone": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "catalunya": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "spa": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "monza": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "mugello": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "sochi": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "nurburgring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "portimao": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "imola": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "istanbul": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "bahrain": {
+    "f1": {
+      "featureLaps": 57,
+      "featureDistance": "308.484 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 32,
+      "featureDistance": "173.184 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "113.652 km",
+      "hasSprint": true,
+      "sprintLaps": 17
+    }
+  },
+  "yas_marina": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  }
+}
