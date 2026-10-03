@@ -1,23 +1,59 @@
 {
   "albert_park": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 58,
+      "featureDistance": "306.124 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 33,
+      "featureDistance": "174.174 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "110.838 km",
+      "hasSprint": true,
+      "sprintLaps": 18
     }
   },
   "sepang": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 56,
+      "featureDistance": "310.408 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 31,
+      "featureDistance": "171.833 km",
+      "hasSprint": true,
+      "sprintLaps": 22
+    },
+    "f3": {
+      "featureLaps": 20,
+      "featureDistance": "110.86 km",
+      "hasSprint": true,
+      "sprintLaps": 17
     }
   },
   "shanghai": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 56,
+      "featureDistance": "305.256 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 32,
+      "featureDistance": "174.432 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "114.471 km",
+      "hasSprint": true,
+      "sprintLaps": 17
     }
   },
   "bahrain": {
@@ -41,9 +77,21 @@
   },
   "catalunya": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 66,
+      "featureDistance": "307.362 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 37,
+      "featureDistance": "172.309 km",
+      "hasSprint": true,
+      "sprintLaps": 26
+    },
+    "f3": {
+      "featureLaps": 24,
+      "featureDistance": "111.768 km",
+      "hasSprint": true,
+      "sprintLaps": 20
     }
   },
   "monaco": {
@@ -67,16 +115,40 @@
   },
   "villeneuve": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 70,
+      "featureDistance": "305.27 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 39,
+      "featureDistance": "170.079 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "113.386 km",
+      "hasSprint": true,
+      "sprintLaps": 21
     }
   },
   "silverstone": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 52,
+      "featureDistance": "306.332 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 29,
+      "featureDistance": "170.839 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "111.929 km",
+      "hasSprint": true,
+      "sprintLaps": 16
     }
   },
   "nurburgring": {
@@ -88,30 +160,78 @@
   },
   "hungaroring": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 70,
+      "featureDistance": "306.67 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 39,
+      "featureDistance": "170.859 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "113.906 km",
+      "hasSprint": true,
+      "sprintLaps": 21
     }
   },
   "spa": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 44,
+      "featureDistance": "308.176 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 25,
+      "featureDistance": "175.1 km",
+      "hasSprint": true,
+      "sprintLaps": 18
+    },
+    "f3": {
+      "featureLaps": 16,
+      "featureDistance": "112.064 km",
+      "hasSprint": true,
+      "sprintLaps": 13
     }
   },
   "monza": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 53,
+      "featureDistance": "307.029 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 30,
+      "featureDistance": "173.79 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "110.067 km",
+      "hasSprint": true,
+      "sprintLaps": 16
     }
   },
   "marina_bay": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 62,
+      "featureDistance": "306.28 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 35,
+      "featureDistance": "172.9 km",
+      "hasSprint": true,
+      "sprintLaps": 25
+    },
+    "f3": {
+      "featureLaps": 23,
+      "featureDistance": "113.62 km",
+      "hasSprint": true,
+      "sprintLaps": 19
     }
   },
   "yeongam": {
@@ -123,9 +243,21 @@
   },
   "suzuka": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 53,
+      "featureDistance": "307.771 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 30,
+      "featureDistance": "174.21 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "110.333 km",
+      "hasSprint": true,
+      "sprintLaps": 16
     }
   },
   "buddh": {
@@ -137,23 +269,59 @@
   },
   "yas_marina": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 58,
+      "featureDistance": "306.298 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 33,
+      "featureDistance": "174.273 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "110.901 km",
+      "hasSprint": true,
+      "sprintLaps": 18
     }
   },
   "americas": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 56,
+      "featureDistance": "308.728 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 31,
+      "featureDistance": "170.903 km",
+      "hasSprint": true,
+      "sprintLaps": 22
+    },
+    "f3": {
+      "featureLaps": 20,
+      "featureDistance": "110.26 km",
+      "hasSprint": true,
+      "sprintLaps": 17
     }
   },
   "interlagos": {
     "f1": {
-      "featureLaps": "TBC",
-      "featureDistance": "TBC",
+      "featureLaps": 71,
+      "featureDistance": "305.939 km",
       "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 40,
+      "featureDistance": "172.36 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "112.034 km",
+      "hasSprint": true,
+      "sprintLaps": 21
     }
   }
 }
