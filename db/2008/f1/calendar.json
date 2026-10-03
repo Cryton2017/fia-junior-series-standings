@@ -1,0 +1,238 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "albert_park",
+      "name": "Australian Grand Prix",
+      "track": "Albert Park Grand Prix Circuit",
+      "sessions": {
+        "fp1": "2008-03-14T00:00:00Z",
+        "fp2": "2008-03-14T00:00:00Z",
+        "fp3": "2008-03-15T00:00:00Z",
+        "qualifying": "2008-03-15T00:00:00Z",
+        "feature": "2008-03-16T04:30:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "sepang",
+      "name": "Malaysian Grand Prix",
+      "track": "Sepang International Circuit",
+      "sessions": {
+        "fp1": "2008-03-21T00:00:00Z",
+        "fp2": "2008-03-21T00:00:00Z",
+        "fp3": "2008-03-22T00:00:00Z",
+        "qualifying": "2008-03-22T00:00:00Z",
+        "feature": "2008-03-23T07:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "bahrain",
+      "name": "Bahrain Grand Prix",
+      "track": "Bahrain International Circuit",
+      "sessions": {
+        "fp1": "2008-04-04T00:00:00Z",
+        "fp2": "2008-04-04T00:00:00Z",
+        "fp3": "2008-04-05T00:00:00Z",
+        "qualifying": "2008-04-05T00:00:00Z",
+        "feature": "2008-04-06T11:30:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "catalunya",
+      "name": "Spanish Grand Prix",
+      "track": "Circuit de Barcelona-Catalunya",
+      "sessions": {
+        "fp1": "2008-04-25T00:00:00Z",
+        "fp2": "2008-04-25T00:00:00Z",
+        "fp3": "2008-04-26T00:00:00Z",
+        "qualifying": "2008-04-26T00:00:00Z",
+        "feature": "2008-04-27T12:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "istanbul",
+      "name": "Turkish Grand Prix",
+      "track": "Istanbul Park",
+      "sessions": {
+        "fp1": "2008-05-09T00:00:00Z",
+        "fp2": "2008-05-09T00:00:00Z",
+        "fp3": "2008-05-10T00:00:00Z",
+        "qualifying": "2008-05-10T00:00:00Z",
+        "feature": "2008-05-11T12:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "fp1": "2008-05-22T00:00:00Z",
+        "fp2": "2008-05-22T00:00:00Z",
+        "fp3": "2008-05-24T00:00:00Z",
+        "qualifying": "2008-05-24T00:00:00Z",
+        "feature": "2008-05-25T12:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "villeneuve",
+      "name": "Canadian Grand Prix",
+      "track": "Circuit Gilles Villeneuve",
+      "sessions": {
+        "fp1": "2008-06-06T00:00:00Z",
+        "fp2": "2008-06-06T00:00:00Z",
+        "fp3": "2008-06-07T00:00:00Z",
+        "qualifying": "2008-06-07T00:00:00Z",
+        "feature": "2008-06-08T17:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "magny_cours",
+      "name": "French Grand Prix",
+      "track": "Circuit de Nevers Magny-Cours",
+      "sessions": {
+        "fp1": "2008-06-20T00:00:00Z",
+        "fp2": "2008-06-20T00:00:00Z",
+        "fp3": "2008-06-21T00:00:00Z",
+        "qualifying": "2008-06-21T00:00:00Z",
+        "feature": "2008-06-22T12:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "silverstone",
+      "name": "British Grand Prix",
+      "track": "Silverstone Circuit",
+      "sessions": {
+        "fp1": "2008-07-04T00:00:00Z",
+        "fp2": "2008-07-04T00:00:00Z",
+        "fp3": "2008-07-05T00:00:00Z",
+        "qualifying": "2008-07-05T00:00:00Z",
+        "feature": "2008-07-06T12:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "hockenheimring",
+      "name": "German Grand Prix",
+      "track": "Hockenheimring",
+      "sessions": {
+        "fp1": "2008-07-18T00:00:00Z",
+        "fp2": "2008-07-18T00:00:00Z",
+        "fp3": "2008-07-19T00:00:00Z",
+        "qualifying": "2008-07-19T00:00:00Z",
+        "feature": "2008-07-20T12:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "hungaroring",
+      "name": "Hungarian Grand Prix",
+      "track": "Hungaroring",
+      "sessions": {
+        "fp1": "2008-08-01T00:00:00Z",
+        "fp2": "2008-08-01T00:00:00Z",
+        "fp3": "2008-08-02T00:00:00Z",
+        "qualifying": "2008-08-02T00:00:00Z",
+        "feature": "2008-08-03T12:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "valencia",
+      "name": "European Grand Prix",
+      "track": "Valencia Street Circuit",
+      "sessions": {
+        "fp1": "2008-08-22T00:00:00Z",
+        "fp2": "2008-08-22T00:00:00Z",
+        "fp3": "2008-08-23T00:00:00Z",
+        "qualifying": "2008-08-23T00:00:00Z",
+        "feature": "2008-08-24T12:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "spa",
+      "name": "Belgian Grand Prix",
+      "track": "Circuit de Spa-Francorchamps",
+      "sessions": {
+        "fp1": "2008-09-05T00:00:00Z",
+        "fp2": "2008-09-05T00:00:00Z",
+        "fp3": "2008-09-06T00:00:00Z",
+        "qualifying": "2008-09-06T00:00:00Z",
+        "feature": "2008-09-07T12:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "fp1": "2008-09-12T00:00:00Z",
+        "fp2": "2008-09-12T00:00:00Z",
+        "fp3": "2008-09-13T00:00:00Z",
+        "qualifying": "2008-09-13T00:00:00Z",
+        "feature": "2008-09-14T12:00:00Z"
+      }
+    },
+    {
+      "round": "15",
+      "slug": "marina_bay",
+      "name": "Singapore Grand Prix",
+      "track": "Marina Bay Street Circuit",
+      "sessions": {
+        "fp1": "2008-09-26T00:00:00Z",
+        "fp2": "2008-09-26T00:00:00Z",
+        "fp3": "2008-09-27T00:00:00Z",
+        "qualifying": "2008-09-27T00:00:00Z",
+        "feature": "2008-09-28T12:00:00Z"
+      }
+    },
+    {
+      "round": "16",
+      "slug": "fuji",
+      "name": "Japanese Grand Prix",
+      "track": "Fuji Speedway",
+      "sessions": {
+        "fp1": "2008-10-10T00:00:00Z",
+        "fp2": "2008-10-10T00:00:00Z",
+        "fp3": "2008-10-11T00:00:00Z",
+        "qualifying": "2008-10-11T00:00:00Z",
+        "feature": "2008-10-12T04:30:00Z"
+      }
+    },
+    {
+      "round": "17",
+      "slug": "shanghai",
+      "name": "Chinese Grand Prix",
+      "track": "Shanghai International Circuit",
+      "sessions": {
+        "fp1": "2008-10-17T00:00:00Z",
+        "fp2": "2008-10-17T00:00:00Z",
+        "fp3": "2008-10-18T00:00:00Z",
+        "qualifying": "2008-10-18T00:00:00Z",
+        "feature": "2008-10-19T07:00:00Z"
+      }
+    },
+    {
+      "round": "18",
+      "slug": "interlagos",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo José Carlos Pace",
+      "sessions": {
+        "fp1": "2008-10-31T00:00:00Z",
+        "fp2": "2008-10-31T00:00:00Z",
+        "fp3": "2008-11-01T00:00:00Z",
+        "qualifying": "2008-11-01T00:00:00Z",
+        "feature": "2008-11-02T17:00:00Z"
+      }
+    }
+  ]
+}
