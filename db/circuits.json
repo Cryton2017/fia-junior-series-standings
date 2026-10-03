@@ -1,228 +1,277 @@
 {
   "bahrain": {
+    "country": "Bahrain",
     "length": "5.412 km",
     "corners": 15,
     "firstGP": "2004",
-    "lapRecords": {
-      "f1": "1:31.447 (P. de la Rosa, 2005)",
-      "f2": "1:40.124 (C. Leclerc, 2017)",
-      "f3": "1:47.321 (G. Bortoleto, 2023)"
+    "lapRecords": { 
+      "f1": "1:31.447 (P. de la Rosa, 2005)", 
+      "f2": "1:40.878 (S. Leclerc, 2017)", 
+      "f3": "1:47.321 (Z. O'Sullivan, 2022)" 
     }
   },
-  "saudi-arabia": {
+  "jeddah": {
+    "country": "Saudi Arabia",
     "length": "6.174 km",
     "corners": 27,
     "firstGP": "2021",
-    "lapRecords": {
-      "f1": "1:30.734 (L. Hamilton, 2021)",
-      "f2": "1:42.247 (J. Doohan, 2022)"
+    "lapRecords": { 
+      "f1": "1:30.734 (L. Hamilton, 2021)", 
+      "f2": "1:42.262 (O. Bearman, 2023)" 
     }
   },
-  "australia": {
+  "albert_park": {
+    "country": "Australia",
     "length": "5.278 km",
     "corners": 14,
     "firstGP": "1996",
-    "lapRecords": {
-      "f1": "1:19.813 (C. Leclerc, 2024)",
-      "f2": "1:24.634 (I. Hadjar, 2024)",
-      "f3": "1:33.025 (L. Browning, 2024)"
+    "lapRecords": { 
+      "f1": "1:19.813 (C. Leclerc, 2024)", 
+      "f2": "1:24.634 (I. Hadjar, 2024)", 
+      "f3": "1:33.025 (L. Browning, 2024)" 
     }
   },
-  "japan": {
+  "suzuka": {
+    "country": "Japan",
     "length": "5.807 km",
     "corners": 18,
     "firstGP": "1987",
-    "lapRecords": {
-      "f1": "1:30.983 (L. Hamilton, 2019)"
+    "lapRecords": { 
+      "f1": "1:30.983 (L. Hamilton, 2019)" 
     }
   },
-  "china": {
+  "shanghai": {
+    "country": "China",
     "length": "5.451 km",
     "corners": 16,
     "firstGP": "2004",
-    "lapRecords": {
-      "f1": "1:32.238 (M. Schumacher, 2004)"
+    "lapRecords": { 
+      "f1": "1:32.238 (M. Schumacher, 2004)" 
     }
   },
   "miami": {
+    "country": "United States",
     "length": "5.412 km",
     "corners": 19,
     "firstGP": "2022",
-    "lapRecords": {
-      "f1": "1:29.708 (M. Verstappen, 2023)",
-      "f2": "N/A"
+    "lapRecords": { 
+      "f1": "1:29.708 (M. Verstappen, 2023)" 
     }
   },
-  "emilia-romagna": {
+  "imola": {
+    "country": "Italy",
     "length": "4.909 km",
     "corners": 19,
     "firstGP": "1980",
-    "lapRecords": {
-      "f1": "1:15.484 (L. Hamilton, 2020)",
-      "f2": "1:27.394 (V. Martins, 2023)",
-      "f3": "1:33.129 (G. Minì, 2023)"
+    "lapRecords": { 
+      "f1": "1:15.484 (L. Hamilton, 2020)", 
+      "f2": "1:27.394 (V. Martins, 2023)", 
+      "f3": "1:33.129 (G. Minì, 2023)" 
     }
   },
   "monaco": {
+    "country": "Monaco",
     "length": "3.337 km",
     "corners": 19,
     "firstGP": "1950",
-    "lapRecords": {
-      "f1": "1:12.909 (L. Hamilton, 2021)",
-      "f2": "1:19.309 (C. Leclerc, 2017, 2021)",
-      "f3": "1:23.278 (G. Minì, 2023)"
+    "lapRecords": { 
+      "f1": "1:12.909 (L. Hamilton, 2021)", 
+      "f2": "1:21.321 (O. Bearman, 2023)" 
     }
   },
-  "canada": {
+  "villeneuve": {
+    "country": "Canada",
     "length": "4.361 km",
     "corners": 14,
     "firstGP": "1978",
-    "lapRecords": {
-      "f1": "1:13.078 (V. Bottas, 2019)",
-      "f2": "N/A"
+    "lapRecords": { 
+      "f1": "1:13.078 (V. Bottas, 2019)" 
     }
   },
-  "spain": {
+  "catalunya": {
+    "country": "Spain",
     "length": "4.657 km",
     "corners": 14,
     "firstGP": "1991",
-    "lapRecords": {
-      "f1": "1:16.330 (M. Verstappen, 2023)",
-      "f2": "1:26.541 (A. Iwasa, 2023)",
-      "f3": "1:31.258 (P. Aron, 2023)"
+    "lapRecords": { 
+      "f1": "1:16.330 (M. Verstappen, 2023)", 
+      "f2": "1:25.501 (A. Antonelli, 2024)", 
+      "f3": "1:31.236 (P. Aron, 2023)" 
     }
   },
-  "austria": {
+  "red_bull_ring": {
+    "country": "Austria",
     "length": "4.318 km",
     "corners": 10,
     "firstGP": "1970",
-    "lapRecords": {
-      "f1": "1:05.619 (C. Sainz, 2020)",
-      "f2": "1:15.210 (C. Leclerc, 2017)",
-      "f3": "1:20.155 (L. O'Sullivan, 2023)"
+    "lapRecords": { 
+      "f1": "1:05.619 (C. Sainz, 2020)", 
+      "f2": "1:15.210 (C. Leclerc, 2017)", 
+      "f3": "1:20.155 (L. O'Sullivan, 2023)" 
     }
   },
-  "great-britain": {
+  "silverstone": {
+    "country": "Great Britain",
     "length": "5.891 km",
     "corners": 18,
     "firstGP": "1950",
-    "lapRecords": {
-      "f1": "1:27.097 (M. Verstappen, 2020)",
-      "f2": "1:39.981 (J. Doohan, 2022)",
-      "f3": "1:45.195 (Z. O'Sullivan, 2023)"
+    "lapRecords": { 
+      "f1": "1:27.097 (M. Verstappen, 2020)", 
+      "f2": "1:39.993 (J. Doohan, 2022)", 
+      "f3": "1:46.046 (Z. O'Sullivan, 2023)" 
     }
   },
-  "hungary": {
+  "hungaroring": {
+    "country": "Hungary",
     "length": "4.381 km",
     "corners": 14,
     "firstGP": "1986",
-    "lapRecords": {
-      "f1": "1:16.627 (L. Hamilton, 2020)",
-      "f2": "1:30.825 (O. Bearman, 2023)",
-      "f3": "1:34.502 (Z. O'Sullivan, 2023)"
+    "lapRecords": { 
+      "f1": "1:16.627 (L. Hamilton, 2020)", 
+      "f2": "1:30.927 (R. Verschoor, 2022)", 
+      "f3": "1:35.088 (G. Bortoleto, 2023)" 
     }
   },
-  "belgium": {
+  "spa": {
+    "country": "Belgium",
     "length": "7.004 km",
     "corners": 19,
     "firstGP": "1950",
-    "lapRecords": {
-      "f1": "1:46.286 (V. Bottas, 2018)",
-      "f2": "1:59.390 (C. Novalak, 2023)",
-      "f3": "2:05.419 (P. Aron, 2023)"
+    "lapRecords": { 
+      "f1": "1:46.286 (V. Bottas, 2018)", 
+      "f2": "1:58.740 (J. Daruvala, 2022)", 
+      "f3": "2:05.684 (G. Minì, 2023)" 
     }
   },
-  "netherlands": {
+  "zandvoort": {
+    "country": "Netherlands",
     "length": "4.259 km",
     "corners": 14,
     "firstGP": "1952",
-    "lapRecords": {
-      "f1": "1:11.097 (L. Hamilton, 2021)"
+    "lapRecords": { 
+      "f1": "1:11.097 (L. Hamilton, 2021)", 
+      "f2": "1:22.754 (C. Novalak, 2023)" 
     }
   },
-  "italy": {
+  "monza": {
+    "country": "Italy",
     "length": "5.793 km",
     "corners": 11,
     "firstGP": "1950",
-    "lapRecords": {
-      "f1": "1:21.046 (R. Barrichello, 2004)",
-      "f2": "1:33.725 (O. Bearman, 2023)",
-      "f3": "1:38.946 (F. Colapinto, 2023)"
+    "lapRecords": { 
+      "f1": "1:21.046 (R. Barrichello, 2004)", 
+      "f2": "1:33.725 (O. Bearman, 2023)", 
+      "f3": "1:38.946 (F. Colapinto, 2023)" 
     }
   },
-  "azerbaijan": {
+  "baku": {
+    "country": "Azerbaijan",
     "length": "6.003 km",
     "corners": 20,
     "firstGP": "2016",
-    "lapRecords": {
-      "f1": "1:43.009 (C. Leclerc, 2019)",
-      "f2": "1:53.478 (C. Leclerc, 2017)"
+    "lapRecords": { 
+      "f1": "1:43.009 (C. Leclerc, 2019)", 
+      "f2": "1:53.645 (I. Hadjar, 2023)" 
     }
   },
-  "malaysia": {
-    "length": "5.543 km",
-    "corners": 15,
-    "firstGP": "1999",
-    "lapRecords": {
-      "f1": "1:34.080 (S. Vettel, 2017)"
-    }
-  },
-  "singapore": {
+  "marina_bay": {
+    "country": "Singapore",
     "length": "4.940 km",
     "corners": 19,
     "firstGP": "2008",
-    "lapRecords": {
-      "f1": "1:35.867 (L. Hamilton, 2023)"
+    "lapRecords": { 
+      "f1": "1:35.867 (L. Hamilton, 2023)" 
     }
   },
-  "united-states": {
+  "americas": {
+    "country": "United States",
     "length": "5.513 km",
     "corners": 20,
     "firstGP": "2012",
-    "lapRecords": {
-      "f1": "1:36.169 (C. Leclerc, 2019)"
+    "lapRecords": { 
+      "f1": "1:36.169 (C. Leclerc, 2019)" 
     }
   },
-  "mexico": {
+  "rodriguez": {
+    "country": "Mexico",
     "length": "4.304 km",
     "corners": 17,
     "firstGP": "1963",
-    "lapRecords": {
-      "f1": "1:17.774 (V. Bottas, 2021)"
+    "lapRecords": { 
+      "f1": "1:17.774 (V. Bottas, 2021)" 
     }
   },
-  "brazil": {
+  "interlagos": {
+    "country": "Brazil",
     "length": "4.309 km",
     "corners": 15,
     "firstGP": "1973",
-    "lapRecords": {
-      "f1": "1:10.540 (V. Bottas, 2018)"
+    "lapRecords": { 
+      "f1": "1:10.540 (V. Bottas, 2018)" 
     }
   },
-  "las-vegas": {
+  "vegas": {
+    "country": "United States",
     "length": "6.201 km",
     "corners": 17,
     "firstGP": "2023",
-    "lapRecords": {
-      "f1": "1:35.490 (O. Piastri, 2023)"
+    "lapRecords": { 
+      "f1": "1:35.490 (O. Piastri, 2023)" 
     }
   },
-  "qatar": {
+  "losail": {
+    "country": "Qatar",
     "length": "5.419 km",
     "corners": 16,
     "firstGP": "2021",
-    "lapRecords": {
-      "f1": "1:24.319 (M. Verstappen, 2023)",
-      "f2": "TBC"
+    "lapRecords": { 
+      "f1": "1:24.319 (M. Verstappen, 2023)" 
     }
   },
-  "abu-dhabi": {
+  "yas_marina": {
+    "country": "United Arab Emirates",
     "length": "5.281 km",
     "corners": 16,
     "firstGP": "2009",
-    "lapRecords": {
-      "f1": "1:26.103 (M. Verstappen, 2021)",
-      "f2": "1:37.445 (R. Nissany, 2021)"
+    "lapRecords": { 
+      "f1": "1:26.103 (M. Verstappen, 2021)", 
+      "f2": "1:37.445 (V. Martins, 2023)" 
+    }
+  },
+  "sepang": {
+    "country": "Malaysia",
+    "length": "5.543 km",
+    "corners": 15,
+    "firstGP": "1999",
+    "lapRecords": { 
+      "f1": "1:34.080 (S. Vettel, 2017)" 
+    }
+  },
+  "paul_ricard": {
+    "country": "France",
+    "length": "5.842 km",
+    "corners": 15,
+    "firstGP": "1971",
+    "lapRecords": { 
+      "f1": "1:32.740 (S. Vettel, 2019)" 
+    }
+  },
+  "sochi": {
+    "country": "Russia",
+    "length": "5.848 km",
+    "corners": 18,
+    "firstGP": "2014",
+    "lapRecords": { 
+      "f1": "1:35.761 (L. Hamilton, 2019)" 
+    }
+  },
+  "portimao": {
+    "country": "Portugal",
+    "length": "4.653 km",
+    "corners": 15,
+    "firstGP": "2020",
+    "lapRecords": { 
+      "f1": "1:18.750 (L. Hamilton, 2020)" 
     }
   }
 }
