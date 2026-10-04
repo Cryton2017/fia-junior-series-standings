@@ -5,6 +5,7 @@
       "points": "159",
       "wins": "2",
       "Driver": {
+        "driverId": "ugo-ugochukwu",
         "givenName": "Ugo",
         "familyName": "Ugochukwu"
       },
@@ -20,6 +21,7 @@
       "points": "145",
       "wins": "1",
       "Driver": {
+        "driverId": "freddie-slater",
         "givenName": "Freddie",
         "familyName": "Slater"
       },
@@ -35,6 +37,7 @@
       "points": "109",
       "wins": "1",
       "Driver": {
+        "driverId": "tuukka-taponen",
         "givenName": "Tuukka",
         "familyName": "Taponen"
       },
@@ -50,6 +53,7 @@
       "points": "105",
       "wins": "1",
       "Driver": {
+        "driverId": "taito-kato",
         "givenName": "Taito",
         "familyName": "Kato"
       },
@@ -65,6 +69,7 @@
       "points": "88",
       "wins": "3",
       "Driver": {
+        "driverId": "theophile-nael",
         "givenName": "Théophile",
         "familyName": "Naël"
       },
@@ -80,6 +85,7 @@
       "points": "88",
       "wins": "2",
       "Driver": {
+        "driverId": "pedro-clerot",
         "givenName": "Pedro",
         "familyName": "Clerot"
       },
@@ -95,6 +101,7 @@
       "points": "87",
       "wins": "1",
       "Driver": {
+        "driverId": "ernesto-rivera",
         "givenName": "Ernesto",
         "familyName": "Rivera"
       },
@@ -110,6 +117,7 @@
       "points": "71",
       "wins": "1",
       "Driver": {
+        "driverId": "brando-badoer",
         "givenName": "Brando",
         "familyName": "Badoer"
       },
@@ -125,6 +133,7 @@
       "points": "71",
       "wins": "0",
       "Driver": {
+        "driverId": "hiyu-yamakoshi",
         "givenName": "Hiyu",
         "familyName": "Yamakoshi"
       },
@@ -140,13 +149,14 @@
       "points": "65",
       "wins": "1",
       "Driver": {
-        "givenName": "Unknown",
+        "driverId": "noah-stromsted",
+        "givenName": "Noah",
         "familyName": "Stromsted"
       },
       "Constructors": [
         {
-          "name": "Unknown",
-          "constructorId": "unknown"
+          "name": "TRIDENT",
+          "constructorId": "trident"
         }
       ]
     },
@@ -155,6 +165,7 @@
       "points": "57",
       "wins": "1",
       "Driver": {
+        "driverId": "bruno-del-pino",
         "givenName": "Bruno",
         "familyName": "del Pino"
       },
@@ -170,13 +181,14 @@
       "points": "54",
       "wins": "1",
       "Driver": {
-        "givenName": "Unknown",
+        "driverId": "maciej-gladysz",
+        "givenName": "Maciej",
         "familyName": "Gladysz"
       },
       "Constructors": [
         {
-          "name": "Unknown",
-          "constructorId": "unknown"
+          "name": "ART Grand Prix",
+          "constructorId": "art_grand_prix"
         }
       ]
     },
@@ -185,6 +197,7 @@
       "points": "54",
       "wins": "0",
       "Driver": {
+        "driverId": "mattia-colnaghi",
         "givenName": "Mattia",
         "familyName": "Colnaghi"
       },
@@ -200,6 +213,7 @@
       "points": "53",
       "wins": "1",
       "Driver": {
+        "driverId": "jin-nakamura",
         "givenName": "Jin",
         "familyName": "Nakamura"
       },
@@ -215,6 +229,7 @@
       "points": "45",
       "wins": "0",
       "Driver": {
+        "driverId": "alessandro-giusti",
         "givenName": "Alessandro",
         "familyName": "Giusti"
       },
@@ -230,6 +245,7 @@
       "points": "40",
       "wins": "0",
       "Driver": {
+        "driverId": "enzo-deligny",
         "givenName": "Enzo",
         "familyName": "Deligny"
       },
@@ -245,6 +261,7 @@
       "points": "39",
       "wins": "1",
       "Driver": {
+        "driverId": "james-wharton",
         "givenName": "James",
         "familyName": "Wharton"
       },
@@ -260,6 +277,7 @@
       "points": "35",
       "wins": "0",
       "Driver": {
+        "driverId": "yevan-david",
         "givenName": "Yevan",
         "familyName": "David"
       },
@@ -275,6 +293,7 @@
       "points": "33",
       "wins": "1",
       "Driver": {
+        "driverId": "nicola-lacorte",
         "givenName": "Nicola",
         "familyName": "Lacorte"
       },
@@ -290,6 +309,7 @@
       "points": "30",
       "wins": "0",
       "Driver": {
+        "driverId": "kanato-le",
         "givenName": "Kanato",
         "familyName": "Le"
       },
@@ -305,6 +325,7 @@
       "points": "21",
       "wins": "0",
       "Driver": {
+        "driverId": "louis-sharp",
         "givenName": "Louis",
         "familyName": "Sharp"
       },
@@ -320,6 +341,7 @@
       "points": "20",
       "wins": "1",
       "Driver": {
+        "driverId": "gerrard-xie",
         "givenName": "Gerrard",
         "familyName": "Xie"
       },
@@ -335,13 +357,14 @@
       "points": "14",
       "wins": "0",
       "Driver": {
-        "givenName": "Unknown",
+        "driverId": "alex-powell",
+        "givenName": "Alex",
         "familyName": "Powell"
       },
       "Constructors": [
         {
-          "name": "Unknown",
-          "constructorId": "unknown"
+          "name": "PREMA Racing",
+          "constructorId": "prema"
         }
       ]
     },
@@ -350,6 +373,7 @@
       "points": "7",
       "wins": "0",
       "Driver": {
+        "driverId": "matteo-de-palo",
         "givenName": "Matteo",
         "familyName": "De Palo"
       },
@@ -365,6 +389,7 @@
       "points": "6",
       "wins": "0",
       "Driver": {
+        "driverId": "brad-benavides",
         "givenName": "Brad",
         "familyName": "Benavides"
       },
@@ -380,6 +405,7 @@
       "points": "2",
       "wins": "0",
       "Driver": {
+        "driverId": "christian-ho",
         "givenName": "Christian",
         "familyName": "Ho"
       },
@@ -395,6 +421,7 @@
       "points": "2",
       "wins": "0",
       "Driver": {
+        "driverId": "fionn-mclaughlin",
         "givenName": "Fionn",
         "familyName": "McLaughlin"
       },
@@ -410,6 +437,7 @@
       "points": "2",
       "wins": "0",
       "Driver": {
+        "driverId": "fernando-barrichello",
         "givenName": "Fernando",
         "familyName": "Barrichello"
       },
@@ -425,6 +453,7 @@
       "points": "1",
       "wins": "0",
       "Driver": {
+        "driverId": "jose-garfias",
         "givenName": "José",
         "familyName": "Garfias"
       },
@@ -440,6 +469,7 @@
       "points": "0",
       "wins": "0",
       "Driver": {
+        "driverId": "nandhavud-bhirombhakdi",
         "givenName": "Nandhavud",
         "familyName": "Bhirombhakdi"
       },
@@ -455,6 +485,7 @@
       "points": "0",
       "wins": "0",
       "Driver": {
+        "driverId": "ricardo-escotto",
         "givenName": "Ricardo",
         "familyName": "Escotto"
       },
@@ -470,6 +501,7 @@
       "points": "0",
       "wins": "0",
       "Driver": {
+        "driverId": "patrick-heuzenroeder",
         "givenName": "Patrick",
         "familyName": "Heuzenroeder"
       },
@@ -485,6 +517,7 @@
       "points": "0",
       "wins": "0",
       "Driver": {
+        "driverId": "michael-shin",
         "givenName": "Michael",
         "familyName": "Shin"
       },
@@ -500,6 +533,7 @@
       "points": "0",
       "wins": "0",
       "Driver": {
+        "driverId": "salim-hanna",
         "givenName": "Salim",
         "familyName": "Hanna"
       },

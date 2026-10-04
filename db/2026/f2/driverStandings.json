@@ -5,6 +5,7 @@
       "points": "207",
       "wins": "3",
       "Driver": {
+        "driverId": "rafael-camara",
         "givenName": "Rafael",
         "familyName": "Câmara"
       },
@@ -20,6 +21,7 @@
       "points": "200",
       "wins": "6",
       "Driver": {
+        "driverId": "nikola-tsolov",
         "givenName": "Nikola",
         "familyName": "Tsolov"
       },
@@ -35,6 +37,7 @@
       "points": "189",
       "wins": "1",
       "Driver": {
+        "driverId": "alex-dunne",
         "givenName": "Alex",
         "familyName": "Dunne"
       },
@@ -50,6 +53,7 @@
       "points": "163",
       "wins": "2",
       "Driver": {
+        "driverId": "gabriele-mini",
         "givenName": "Gabriele",
         "familyName": "Mini"
       },
@@ -65,6 +69,7 @@
       "points": "137",
       "wins": "2",
       "Driver": {
+        "driverId": "dino-beganovic",
         "givenName": "Dino",
         "familyName": "Beganovic"
       },
@@ -80,6 +85,7 @@
       "points": "133",
       "wins": "3",
       "Driver": {
+        "driverId": "noel-leon",
         "givenName": "Noel",
         "familyName": "Leon"
       },
@@ -95,6 +101,7 @@
       "points": "107",
       "wins": "1",
       "Driver": {
+        "driverId": "martinius-stenshorne",
         "givenName": "Martinius",
         "familyName": "Stenshorne"
       },
@@ -110,6 +117,7 @@
       "points": "90",
       "wins": "4",
       "Driver": {
+        "driverId": "joshua-durksen",
         "givenName": "Joshua",
         "familyName": "Dürksen"
       },
@@ -125,6 +133,7 @@
       "points": "90",
       "wins": "1",
       "Driver": {
+        "driverId": "kush-maini",
         "givenName": "Kush",
         "familyName": "Maini"
       },
@@ -140,6 +149,7 @@
       "points": "90",
       "wins": "0",
       "Driver": {
+        "driverId": "laurens-van-hoepen",
         "givenName": "Laurens",
         "familyName": "van Hoepen"
       },
@@ -155,6 +165,7 @@
       "points": "71",
       "wins": "0",
       "Driver": {
+        "driverId": "tasanapol-inthraphuvasak",
         "givenName": "Tasanapol",
         "familyName": "Inthraphuvasak"
       },
@@ -170,6 +181,7 @@
       "points": "70",
       "wins": "1",
       "Driver": {
+        "driverId": "ritomo-miyata",
         "givenName": "Ritomo",
         "familyName": "Miyata"
       },
@@ -185,6 +197,7 @@
       "points": "42",
       "wins": "0",
       "Driver": {
+        "driverId": "rafael-villagomez",
         "givenName": "Rafael",
         "familyName": "Villagomez"
       },
@@ -200,6 +213,7 @@
       "points": "38",
       "wins": "1",
       "Driver": {
+        "driverId": "john-bennett",
         "givenName": "John",
         "familyName": "Bennett"
       },
@@ -215,6 +229,7 @@
       "points": "37",
       "wins": "0",
       "Driver": {
+        "driverId": "oliver-goethe",
         "givenName": "Oliver",
         "familyName": "Goethe"
       },
@@ -230,6 +245,7 @@
       "points": "36",
       "wins": "0",
       "Driver": {
+        "driverId": "roman-bilinski",
         "givenName": "Roman",
         "familyName": "Bilinski"
       },
@@ -245,6 +261,7 @@
       "points": "30",
       "wins": "0",
       "Driver": {
+        "driverId": "sebastian-montoya",
         "givenName": "Sebastián",
         "familyName": "Montoya"
       },
@@ -260,6 +277,7 @@
       "points": "28",
       "wins": "0",
       "Driver": {
+        "driverId": "emerson-fittipaldi",
         "givenName": "Emerson",
         "familyName": "Fittipaldi"
       },
@@ -275,6 +293,7 @@
       "points": "26",
       "wins": "0",
       "Driver": {
+        "driverId": "colton-herta",
         "givenName": "Colton",
         "familyName": "Herta"
       },
@@ -290,6 +309,7 @@
       "points": "21",
       "wins": "0",
       "Driver": {
+        "driverId": "mari-boya",
         "givenName": "Mari",
         "familyName": "Boya"
       },
@@ -305,6 +325,7 @@
       "points": "15",
       "wins": "0",
       "Driver": {
+        "driverId": "nico-varrone",
         "givenName": "Nico",
         "familyName": "Varrone"
       },
@@ -320,6 +341,7 @@
       "points": "10",
       "wins": "0",
       "Driver": {
+        "driverId": "cian-shields",
         "givenName": "Cian",
         "familyName": "Shields"
       },
@@ -335,6 +357,7 @@
       "points": "2",
       "wins": "0",
       "Driver": {
+        "driverId": "hiyu-yamakoshi",
         "givenName": "Hiyu",
         "familyName": "Yamakoshi"
       },
