@@ -1,0 +1,148 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "phoenix",
+      "name": "United States Grand Prix",
+      "track": "Phoenix street circuit",
+      "sessions": {
+        "feature": "1990-03-11T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "interlagos",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo José Carlos Pace",
+      "sessions": {
+        "feature": "1990-03-25T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "imola",
+      "name": "San Marino Grand Prix",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "sessions": {
+        "feature": "1990-05-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1990-05-27T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "villeneuve",
+      "name": "Canadian Grand Prix",
+      "track": "Circuit Gilles Villeneuve",
+      "sessions": {
+        "feature": "1990-06-10T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "rodriguez",
+      "name": "Mexican Grand Prix",
+      "track": "Autódromo Hermanos Rodríguez",
+      "sessions": {
+        "feature": "1990-06-24T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "ricard",
+      "name": "French Grand Prix",
+      "track": "Circuit Paul Ricard",
+      "sessions": {
+        "feature": "1990-07-08T00:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "silverstone",
+      "name": "British Grand Prix",
+      "track": "Silverstone Circuit",
+      "sessions": {
+        "feature": "1990-07-15T00:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "hockenheimring",
+      "name": "German Grand Prix",
+      "track": "Hockenheimring",
+      "sessions": {
+        "feature": "1990-07-29T00:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "hungaroring",
+      "name": "Hungarian Grand Prix",
+      "track": "Hungaroring",
+      "sessions": {
+        "feature": "1990-08-12T00:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "spa",
+      "name": "Belgian Grand Prix",
+      "track": "Circuit de Spa-Francorchamps",
+      "sessions": {
+        "feature": "1990-08-26T00:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "feature": "1990-09-09T00:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "estoril",
+      "name": "Portuguese Grand Prix",
+      "track": "Autódromo do Estoril",
+      "sessions": {
+        "feature": "1990-09-23T00:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "jerez",
+      "name": "Spanish Grand Prix",
+      "track": "Circuito de Jerez",
+      "sessions": {
+        "feature": "1990-09-30T00:00:00Z"
+      }
+    },
+    {
+      "round": "15",
+      "slug": "suzuka",
+      "name": "Japanese Grand Prix",
+      "track": "Suzuka Circuit",
+      "sessions": {
+        "feature": "1990-10-21T00:00:00Z"
+      }
+    },
+    {
+      "round": "16",
+      "slug": "adelaide",
+      "name": "Australian Grand Prix",
+      "track": "Adelaide Street Circuit",
+      "sessions": {
+        "feature": "1990-11-04T00:00:00Z"
+      }
+    }
+  ]
+}

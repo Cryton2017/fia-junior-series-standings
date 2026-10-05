@@ -1,0 +1,148 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "jacarepagua",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo Internacional Nelson Piquet",
+      "sessions": {
+        "feature": "1986-03-23T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "jerez",
+      "name": "Spanish Grand Prix",
+      "track": "Circuito de Jerez",
+      "sessions": {
+        "feature": "1986-04-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "imola",
+      "name": "San Marino Grand Prix",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "sessions": {
+        "feature": "1986-04-27T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1986-05-11T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "spa",
+      "name": "Belgian Grand Prix",
+      "track": "Circuit de Spa-Francorchamps",
+      "sessions": {
+        "feature": "1986-05-25T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "villeneuve",
+      "name": "Canadian Grand Prix",
+      "track": "Circuit Gilles Villeneuve",
+      "sessions": {
+        "feature": "1986-06-15T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "detroit",
+      "name": "Detroit Grand Prix",
+      "track": "Detroit Street Circuit",
+      "sessions": {
+        "feature": "1986-06-22T00:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "ricard",
+      "name": "French Grand Prix",
+      "track": "Circuit Paul Ricard",
+      "sessions": {
+        "feature": "1986-07-06T00:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "brands_hatch",
+      "name": "British Grand Prix",
+      "track": "Brands Hatch",
+      "sessions": {
+        "feature": "1986-07-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "hockenheimring",
+      "name": "German Grand Prix",
+      "track": "Hockenheimring",
+      "sessions": {
+        "feature": "1986-07-27T00:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "hungaroring",
+      "name": "Hungarian Grand Prix",
+      "track": "Hungaroring",
+      "sessions": {
+        "feature": "1986-08-10T00:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "red_bull_ring",
+      "name": "Austrian Grand Prix",
+      "track": "Red Bull Ring",
+      "sessions": {
+        "feature": "1986-08-17T00:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "feature": "1986-09-07T00:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "estoril",
+      "name": "Portuguese Grand Prix",
+      "track": "Autódromo do Estoril",
+      "sessions": {
+        "feature": "1986-09-21T00:00:00Z"
+      }
+    },
+    {
+      "round": "15",
+      "slug": "rodriguez",
+      "name": "Mexican Grand Prix",
+      "track": "Autódromo Hermanos Rodríguez",
+      "sessions": {
+        "feature": "1986-10-12T00:00:00Z"
+      }
+    },
+    {
+      "round": "16",
+      "slug": "adelaide",
+      "name": "Australian Grand Prix",
+      "track": "Adelaide Street Circuit",
+      "sessions": {
+        "feature": "1986-10-26T00:00:00Z"
+      }
+    }
+  ]
+}

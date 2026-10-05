@@ -1,0 +1,148 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "kyalami",
+      "name": "South African Grand Prix",
+      "track": "Kyalami",
+      "sessions": {
+        "feature": "1993-03-14T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "interlagos",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo José Carlos Pace",
+      "sessions": {
+        "feature": "1993-03-28T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "donington",
+      "name": "European Grand Prix",
+      "track": "Donington Park",
+      "sessions": {
+        "feature": "1993-04-11T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "imola",
+      "name": "San Marino Grand Prix",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "sessions": {
+        "feature": "1993-04-25T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "catalunya",
+      "name": "Spanish Grand Prix",
+      "track": "Circuit de Barcelona-Catalunya",
+      "sessions": {
+        "feature": "1993-05-09T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1993-05-23T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "villeneuve",
+      "name": "Canadian Grand Prix",
+      "track": "Circuit Gilles Villeneuve",
+      "sessions": {
+        "feature": "1993-06-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "magny_cours",
+      "name": "French Grand Prix",
+      "track": "Circuit de Nevers Magny-Cours",
+      "sessions": {
+        "feature": "1993-07-04T00:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "silverstone",
+      "name": "British Grand Prix",
+      "track": "Silverstone Circuit",
+      "sessions": {
+        "feature": "1993-07-11T00:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "hockenheimring",
+      "name": "German Grand Prix",
+      "track": "Hockenheimring",
+      "sessions": {
+        "feature": "1993-07-25T00:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "hungaroring",
+      "name": "Hungarian Grand Prix",
+      "track": "Hungaroring",
+      "sessions": {
+        "feature": "1993-08-15T00:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "spa",
+      "name": "Belgian Grand Prix",
+      "track": "Circuit de Spa-Francorchamps",
+      "sessions": {
+        "feature": "1993-08-29T00:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "feature": "1993-09-12T00:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "estoril",
+      "name": "Portuguese Grand Prix",
+      "track": "Autódromo do Estoril",
+      "sessions": {
+        "feature": "1993-09-26T00:00:00Z"
+      }
+    },
+    {
+      "round": "15",
+      "slug": "suzuka",
+      "name": "Japanese Grand Prix",
+      "track": "Suzuka Circuit",
+      "sessions": {
+        "feature": "1993-10-24T00:00:00Z"
+      }
+    },
+    {
+      "round": "16",
+      "slug": "adelaide",
+      "name": "Australian Grand Prix",
+      "track": "Adelaide Street Circuit",
+      "sessions": {
+        "feature": "1993-11-07T00:00:00Z"
+      }
+    }
+  ]
+}
