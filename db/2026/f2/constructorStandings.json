@@ -3,10 +3,10 @@
     {
       "position": "2",
       "points": "-",
-      "wins": "0",
+      "wins": "7",
       "Constructor": {
         "name": "Invicta Racing",
-        "constructorId": "invicta-racing"
+        "constructorId": "invicta"
       }
     },
     {
