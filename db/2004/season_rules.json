@@ -1,0 +1,296 @@
+{
+  "albert_park": {
+    "f1": {
+      "featureLaps": 58,
+      "featureDistance": "306.124 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 33,
+      "featureDistance": "174.174 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "110.838 km",
+      "hasSprint": true,
+      "sprintLaps": 18
+    }
+  },
+  "sepang": {
+    "f1": {
+      "featureLaps": 56,
+      "featureDistance": "310.408 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 31,
+      "featureDistance": "171.833 km",
+      "hasSprint": true,
+      "sprintLaps": 22
+    },
+    "f3": {
+      "featureLaps": 20,
+      "featureDistance": "110.86 km",
+      "hasSprint": true,
+      "sprintLaps": 17
+    }
+  },
+  "bahrain": {
+    "f1": {
+      "featureLaps": 57,
+      "featureDistance": "308.484 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 32,
+      "featureDistance": "173.184 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "113.652 km",
+      "hasSprint": true,
+      "sprintLaps": 17
+    }
+  },
+  "imola": {
+    "f1": {
+      "featureLaps": 63,
+      "featureDistance": "309.267 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 35,
+      "featureDistance": "171.815 km",
+      "hasSprint": true,
+      "sprintLaps": 25
+    },
+    "f3": {
+      "featureLaps": 23,
+      "featureDistance": "112.907 km",
+      "hasSprint": true,
+      "sprintLaps": 19
+    }
+  },
+  "catalunya": {
+    "f1": {
+      "featureLaps": 66,
+      "featureDistance": "307.362 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 37,
+      "featureDistance": "172.309 km",
+      "hasSprint": true,
+      "sprintLaps": 26
+    },
+    "f3": {
+      "featureLaps": 24,
+      "featureDistance": "111.768 km",
+      "hasSprint": true,
+      "sprintLaps": 20
+    }
+  },
+  "monaco": {
+    "f1": {
+      "featureLaps": 78,
+      "featureDistance": "260.286 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 42,
+      "featureDistance": "140.154 km",
+      "hasSprint": true,
+      "sprintLaps": 30
+    },
+    "f3": {
+      "featureLaps": 27,
+      "featureDistance": "90.099 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    }
+  },
+  "nurburgring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "villeneuve": {
+    "f1": {
+      "featureLaps": 70,
+      "featureDistance": "305.27 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 39,
+      "featureDistance": "170.079 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "113.386 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    }
+  },
+  "indianapolis": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "magny_cours": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "silverstone": {
+    "f1": {
+      "featureLaps": 52,
+      "featureDistance": "306.332 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 29,
+      "featureDistance": "170.839 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "111.929 km",
+      "hasSprint": true,
+      "sprintLaps": 16
+    }
+  },
+  "hockenheimring": {
+    "f1": {
+      "featureLaps": "TBC",
+      "featureDistance": "TBC",
+      "hasSprint": false
+    }
+  },
+  "hungaroring": {
+    "f1": {
+      "featureLaps": 70,
+      "featureDistance": "306.67 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 39,
+      "featureDistance": "170.859 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "113.906 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    }
+  },
+  "spa": {
+    "f1": {
+      "featureLaps": 44,
+      "featureDistance": "308.176 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 25,
+      "featureDistance": "175.1 km",
+      "hasSprint": true,
+      "sprintLaps": 18
+    },
+    "f3": {
+      "featureLaps": 16,
+      "featureDistance": "112.064 km",
+      "hasSprint": true,
+      "sprintLaps": 13
+    }
+  },
+  "monza": {
+    "f1": {
+      "featureLaps": 53,
+      "featureDistance": "307.029 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 30,
+      "featureDistance": "173.79 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "110.067 km",
+      "hasSprint": true,
+      "sprintLaps": 16
+    }
+  },
+  "shanghai": {
+    "f1": {
+      "featureLaps": 56,
+      "featureDistance": "305.256 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 32,
+      "featureDistance": "174.432 km",
+      "hasSprint": true,
+      "sprintLaps": 23
+    },
+    "f3": {
+      "featureLaps": 21,
+      "featureDistance": "114.471 km",
+      "hasSprint": true,
+      "sprintLaps": 17
+    }
+  },
+  "suzuka": {
+    "f1": {
+      "featureLaps": 53,
+      "featureDistance": "307.771 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 30,
+      "featureDistance": "174.21 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    },
+    "f3": {
+      "featureLaps": 19,
+      "featureDistance": "110.333 km",
+      "hasSprint": true,
+      "sprintLaps": 16
+    }
+  },
+  "interlagos": {
+    "f1": {
+      "featureLaps": 71,
+      "featureDistance": "305.939 km",
+      "hasSprint": false
+    },
+    "f2": {
+      "featureLaps": 40,
+      "featureDistance": "172.36 km",
+      "hasSprint": true,
+      "sprintLaps": 28
+    },
+    "f3": {
+      "featureLaps": 26,
+      "featureDistance": "112.034 km",
+      "hasSprint": true,
+      "sprintLaps": 21
+    }
+  }
+}
