@@ -70,6 +70,11 @@
     "f2": { "featureLaps": 30, "featureDistance": "173.790 km", "hasSprint": true, "sprintLaps": 21 },
     "f3": { "featureLaps": 22, "featureDistance": "127.446 km", "hasSprint": true, "sprintLaps": 18 }
   },
+  "madring": {
+    "f1": { "featureLaps": 57, "featureDistance": "308.399 km", "hasSprint": false},
+    "f2": { "featureLaps": 32, "featureDistance": "173.2 km", "hasSprint": true, "sprintLaps": 22 },
+    "f3": { "featureLaps": 24, "featureDistance": "129.9 km", "hasSprint": true, "sprintLaps": 19 }
+  },
   "baku": {
     "f1": { "featureLaps": 51, "featureDistance": "306.049 km", "hasSprint": false },
     "f2": { "featureLaps": 29, "featureDistance": "174.087 km", "hasSprint": true, "sprintLaps": 21 }
