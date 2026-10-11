@@ -1,0 +1,131 @@
+{
+  "standings": [
+    {
+      "position": "1",
+      "positionText": "1",
+      "points": "66",
+      "wins": "6",
+      "Constructor": {
+        "constructorId": "matra-ford",
+        "url": "https://en.wikipedia.org/wiki/Matra",
+        "name": "Matra-Ford",
+        "nationality": "French"
+      }
+    },
+    {
+      "position": "2",
+      "positionText": "2",
+      "points": "51",
+      "wins": "2",
+      "Constructor": {
+        "constructorId": "brabham-ford",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Ford",
+        "nationality": "British"
+      }
+    },
+    {
+      "position": "3",
+      "positionText": "3",
+      "points": "47",
+      "wins": "2",
+      "Constructor": {
+        "constructorId": "lotus-ford",
+        "url": "https://en.wikipedia.org/wiki/Team_Lotus",
+        "name": "Lotus-Ford",
+        "nationality": "British"
+      }
+    },
+    {
+      "position": "4",
+      "positionText": "4",
+      "points": "38",
+      "wins": "1",
+      "Constructor": {
+        "constructorId": "mclaren-ford",
+        "url": "https://en.wikipedia.org/wiki/McLaren",
+        "name": "McLaren-Ford",
+        "nationality": "British"
+      }
+    },
+    {
+      "position": "5",
+      "positionText": "5",
+      "points": "7",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "brm",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM",
+        "nationality": "British"
+      }
+    },
+    {
+      "position": "6",
+      "positionText": "6",
+      "points": "7",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "ferrari",
+        "url": "https://en.wikipedia.org/wiki/Scuderia_Ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "positionText": "-",
+      "points": "0",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "cooper-maserati",
+        "url": "https://en.wikipedia.org/wiki/Cooper_Car_Company",
+        "name": "Cooper-Maserati",
+        "nationality": "British"
+      }
+    },
+    {
+      "positionText": "-",
+      "points": "0",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "brabham-repco",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Repco",
+        "nationality": "British"
+      }
+    },
+    {
+      "positionText": "-",
+      "points": "0",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "brm-ford",
+        "url": "https://en.wikipedia.org/wiki/British_Racing_Motors",
+        "name": "BRM-Ford",
+        "nationality": "British"
+      }
+    },
+    {
+      "positionText": "-",
+      "points": "0",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "eagle-climax",
+        "url": "https://en.wikipedia.org/wiki/All_American_Racers",
+        "name": "Eagle-Climax",
+        "nationality": "American"
+      }
+    },
+    {
+      "positionText": "-",
+      "points": "0",
+      "wins": "0",
+      "Constructor": {
+        "constructorId": "brabham-climax",
+        "url": "https://en.wikipedia.org/wiki/Brabham",
+        "name": "Brabham-Climax",
+        "nationality": "British"
+      }
+    }
+  ]
+}

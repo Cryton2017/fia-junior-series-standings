@@ -1,0 +1,67 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "galvez",
+      "name": "Argentine Grand Prix",
+      "track": "Autódromo Juan y Oscar Gálvez",
+      "sessions": {
+        "feature": "1955-01-16T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1955-05-22T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "indianapolis",
+      "name": "Indianapolis 500",
+      "track": "Indianapolis Motor Speedway",
+      "sessions": {
+        "feature": "1955-05-30T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "spa",
+      "name": "Belgian Grand Prix",
+      "track": "Circuit de Spa-Francorchamps",
+      "sessions": {
+        "feature": "1955-06-05T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "zandvoort",
+      "name": "Dutch Grand Prix",
+      "track": "Circuit Park Zandvoort",
+      "sessions": {
+        "feature": "1955-06-19T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "aintree",
+      "name": "British Grand Prix",
+      "track": "Aintree",
+      "sessions": {
+        "feature": "1955-07-16T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "feature": "1955-09-11T00:00:00Z"
+      }
+    }
+  ]
+}

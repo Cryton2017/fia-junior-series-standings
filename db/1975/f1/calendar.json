@@ -1,0 +1,130 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "galvez",
+      "name": "Argentine Grand Prix",
+      "track": "Autódromo Juan y Oscar Gálvez",
+      "sessions": {
+        "feature": "1975-01-12T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "interlagos",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo José Carlos Pace",
+      "sessions": {
+        "feature": "1975-01-26T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "kyalami",
+      "name": "South African Grand Prix",
+      "track": "Kyalami",
+      "sessions": {
+        "feature": "1975-03-01T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "montjuic",
+      "name": "Spanish Grand Prix",
+      "track": "Montjuïc",
+      "sessions": {
+        "feature": "1975-04-27T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1975-05-11T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "zolder",
+      "name": "Belgian Grand Prix",
+      "track": "Zolder",
+      "sessions": {
+        "feature": "1975-05-25T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "anderstorp",
+      "name": "Swedish Grand Prix",
+      "track": "Scandinavian Raceway",
+      "sessions": {
+        "feature": "1975-06-08T00:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "zandvoort",
+      "name": "Dutch Grand Prix",
+      "track": "Circuit Park Zandvoort",
+      "sessions": {
+        "feature": "1975-06-22T00:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "ricard",
+      "name": "French Grand Prix",
+      "track": "Circuit Paul Ricard",
+      "sessions": {
+        "feature": "1975-07-06T00:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "silverstone",
+      "name": "British Grand Prix",
+      "track": "Silverstone Circuit",
+      "sessions": {
+        "feature": "1975-07-19T00:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "nurburgring",
+      "name": "German Grand Prix",
+      "track": "Nürburgring",
+      "sessions": {
+        "feature": "1975-08-03T00:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "red_bull_ring",
+      "name": "Austrian Grand Prix",
+      "track": "Red Bull Ring",
+      "sessions": {
+        "feature": "1975-08-17T00:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "monza",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Nazionale di Monza",
+      "sessions": {
+        "feature": "1975-09-07T00:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "watkins_glen",
+      "name": "United States Grand Prix",
+      "track": "Watkins Glen",
+      "sessions": {
+        "feature": "1975-10-05T00:00:00Z"
+      }
+    }
+  ]
+}

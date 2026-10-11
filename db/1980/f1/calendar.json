@@ -1,0 +1,130 @@
+{
+  "races": [
+    {
+      "round": "1",
+      "slug": "galvez",
+      "name": "Argentine Grand Prix",
+      "track": "Autódromo Juan y Oscar Gálvez",
+      "sessions": {
+        "feature": "1980-01-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "2",
+      "slug": "interlagos",
+      "name": "Brazilian Grand Prix",
+      "track": "Autódromo José Carlos Pace",
+      "sessions": {
+        "feature": "1980-01-27T00:00:00Z"
+      }
+    },
+    {
+      "round": "3",
+      "slug": "kyalami",
+      "name": "South African Grand Prix",
+      "track": "Kyalami",
+      "sessions": {
+        "feature": "1980-03-01T00:00:00Z"
+      }
+    },
+    {
+      "round": "4",
+      "slug": "long_beach",
+      "name": "United States Grand Prix West",
+      "track": "Long Beach",
+      "sessions": {
+        "feature": "1980-03-30T00:00:00Z"
+      }
+    },
+    {
+      "round": "5",
+      "slug": "zolder",
+      "name": "Belgian Grand Prix",
+      "track": "Zolder",
+      "sessions": {
+        "feature": "1980-05-04T00:00:00Z"
+      }
+    },
+    {
+      "round": "6",
+      "slug": "monaco",
+      "name": "Monaco Grand Prix",
+      "track": "Circuit de Monaco",
+      "sessions": {
+        "feature": "1980-05-18T00:00:00Z"
+      }
+    },
+    {
+      "round": "7",
+      "slug": "ricard",
+      "name": "French Grand Prix",
+      "track": "Circuit Paul Ricard",
+      "sessions": {
+        "feature": "1980-06-29T00:00:00Z"
+      }
+    },
+    {
+      "round": "8",
+      "slug": "brands_hatch",
+      "name": "British Grand Prix",
+      "track": "Brands Hatch",
+      "sessions": {
+        "feature": "1980-07-13T00:00:00Z"
+      }
+    },
+    {
+      "round": "9",
+      "slug": "hockenheimring",
+      "name": "German Grand Prix",
+      "track": "Hockenheimring",
+      "sessions": {
+        "feature": "1980-08-10T00:00:00Z"
+      }
+    },
+    {
+      "round": "10",
+      "slug": "red_bull_ring",
+      "name": "Austrian Grand Prix",
+      "track": "Red Bull Ring",
+      "sessions": {
+        "feature": "1980-08-17T00:00:00Z"
+      }
+    },
+    {
+      "round": "11",
+      "slug": "zandvoort",
+      "name": "Dutch Grand Prix",
+      "track": "Circuit Park Zandvoort",
+      "sessions": {
+        "feature": "1980-08-31T00:00:00Z"
+      }
+    },
+    {
+      "round": "12",
+      "slug": "imola",
+      "name": "Italian Grand Prix",
+      "track": "Autodromo Enzo e Dino Ferrari",
+      "sessions": {
+        "feature": "1980-09-14T00:00:00Z"
+      }
+    },
+    {
+      "round": "13",
+      "slug": "villeneuve",
+      "name": "Canadian Grand Prix",
+      "track": "Circuit Gilles Villeneuve",
+      "sessions": {
+        "feature": "1980-09-28T00:00:00Z"
+      }
+    },
+    {
+      "round": "14",
+      "slug": "watkins_glen",
+      "name": "United States Grand Prix",
+      "track": "Watkins Glen",
+      "sessions": {
+        "feature": "1980-10-05T00:00:00Z"
+      }
+    }
+  ]
+}
