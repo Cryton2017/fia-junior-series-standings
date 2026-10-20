@@ -43,7 +43,7 @@
     "f3": { "featureLaps": 25, "featureDistance": "116.425 km", "hasSprint": true, "sprintLaps": 21 }
   },
   "red_bull_ring": {
-    "f1": { "featureLaps": 71, "featureDistance": "306.452 km", "hasSprint": true, "sprintLaps": 24 },
+    "f1": { "featureLaps": 71, "featureDistance": "306.452 km", "hasSprint": false },
     "f2": { "featureLaps": 40, "featureDistance": "172.720 km", "hasSprint": true, "sprintLaps": 28 },
     "f3": { "featureLaps": 26, "featureDistance": "112.268 km", "hasSprint": true, "sprintLaps": 21 }
   },
@@ -71,7 +71,7 @@
     "f3": { "featureLaps": 22, "featureDistance": "127.446 km", "hasSprint": true, "sprintLaps": 18 }
   },
   "madring": {
-    "f1": { "featureLaps": 57, "featureDistance": "308.399 km", "hasSprint": false, "sprintLaps": 19, "sprintDistance": "102.866 km" },
+    "f1": { "featureLaps": 57, "featureDistance": "308.399 km", "hasSprint": false },
     "f2": { "featureLaps": 32, "featureDistance": "173.248 km", "hasSprint": true, "sprintLaps": 23, "sprintDistance": "124.522 km" },
     "f3": { "featureLaps": 24, "featureDistance": "129.936 km", "hasSprint": true, "sprintLaps": 19, "sprintDistance": "102.866 km" }
   },
@@ -86,19 +86,19 @@
     "f1": { "featureLaps": 62, "featureDistance": "306.143 km", "hasSprint": true, "sprintLaps": 21 }
   },
   "americas": {
-    "f1": { "featureLaps": 56, "featureDistance": "308.405 km", "hasSprint": true, "sprintLaps": 19 }
+    "f1": { "featureLaps": 56, "featureDistance": "308.405 km", "hasSprint": false }
   },
   "rodriguez": {
     "f1": { "featureLaps": 71, "featureDistance": "305.354 km", "hasSprint": false }
   },
   "interlagos": {
-    "f1": { "featureLaps": 71, "featureDistance": "305.879 km", "hasSprint": true, "sprintLaps": 24 }
+    "f1": { "featureLaps": 71, "featureDistance": "305.879 km", "hasSprint": false }
   },
   "vegas": {
     "f1": { "featureLaps": 50, "featureDistance": "310.050 km", "hasSprint": false }
   },
   "losail": {
-    "f1": { "featureLaps": 57, "featureDistance": "308.611 km", "hasSprint": true, "sprintLaps": 19 },
+    "f1": { "featureLaps": 57, "featureDistance": "308.611 km", "hasSprint": false },
     "f2": { "featureLaps": 32, "featureDistance": "173.408 km", "hasSprint": true, "sprintLaps": 23 }
   },
   "yas_marina": {
