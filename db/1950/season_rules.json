@@ -1,0 +1,23 @@
+{
+  "silverstone": {
+    "f1": { "featureLaps": 70, "featureDistance": "412.370 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 100, "featureDistance": "333.700 km", "hasSprint": false }
+  },
+  "indianapolis": {
+    "f1": { "featureLaps": 138, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "bremgarten": {
+    "f1": { "featureLaps": 42, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "spa": {
+    "f1": { "featureLaps": 35, "featureDistance": "245.140 km", "hasSprint": false }
+  },
+  "reims": {
+    "f1": { "featureLaps": 64, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 80, "featureDistance": "463.440 km", "hasSprint": false }
+  }
+}

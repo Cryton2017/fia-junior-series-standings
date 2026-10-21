@@ -1,0 +1,23 @@
+{
+  "galvez": {
+    "f1": { "featureLaps": 96, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 100, "featureDistance": "333.700 km", "hasSprint": false }
+  },
+  "indianapolis": {
+    "f1": { "featureLaps": 200, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "spa": {
+    "f1": { "featureLaps": 36, "featureDistance": "252.144 km", "hasSprint": false }
+  },
+  "zandvoort": {
+    "f1": { "featureLaps": 100, "featureDistance": "425.900 km", "hasSprint": false }
+  },
+  "aintree": {
+    "f1": { "featureLaps": 90, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 50, "featureDistance": "289.650 km", "hasSprint": false }
+  }
+}

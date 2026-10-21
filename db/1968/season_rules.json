@@ -1,0 +1,38 @@
+{
+  "kyalami": {
+    "f1": { "featureLaps": 80, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "tremblant": {
+    "f1": { "featureLaps": 90, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "watkins_glen": {
+    "f1": { "featureLaps": 108, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "rodriguez": {
+    "f1": { "featureLaps": 65, "featureDistance": "279.760 km", "hasSprint": false }
+  },
+  "jarama": {
+    "f1": { "featureLaps": 90, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 80, "featureDistance": "266.960 km", "hasSprint": false }
+  },
+  "spa": {
+    "f1": { "featureLaps": 28, "featureDistance": "196.112 km", "hasSprint": false }
+  },
+  "zandvoort": {
+    "f1": { "featureLaps": 90, "featureDistance": "383.310 km", "hasSprint": false }
+  },
+  "essarts": {
+    "f1": { "featureLaps": 60, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "brands_hatch": {
+    "f1": { "featureLaps": 80, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "nurburgring": {
+    "f1": { "featureLaps": 14, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 68, "featureDistance": "393.924 km", "hasSprint": false }
+  }
+}

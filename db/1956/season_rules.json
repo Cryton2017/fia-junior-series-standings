@@ -1,0 +1,26 @@
+{
+  "galvez": {
+    "f1": { "featureLaps": 98, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 100, "featureDistance": "333.700 km", "hasSprint": false }
+  },
+  "indianapolis": {
+    "f1": { "featureLaps": 200, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "spa": {
+    "f1": { "featureLaps": 36, "featureDistance": "252.144 km", "hasSprint": false }
+  },
+  "reims": {
+    "f1": { "featureLaps": 61, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "silverstone": {
+    "f1": { "featureLaps": 101, "featureDistance": "594.991 km", "hasSprint": false }
+  },
+  "nurburgring": {
+    "f1": { "featureLaps": 22, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 50, "featureDistance": "289.650 km", "hasSprint": false }
+  }
+}

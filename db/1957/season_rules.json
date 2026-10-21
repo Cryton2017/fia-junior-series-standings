@@ -1,0 +1,26 @@
+{
+  "galvez": {
+    "f1": { "featureLaps": 100, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 105, "featureDistance": "350.385 km", "hasSprint": false }
+  },
+  "indianapolis": {
+    "f1": { "featureLaps": 200, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "essarts": {
+    "f1": { "featureLaps": 77, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "aintree": {
+    "f1": { "featureLaps": 90, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "nurburgring": {
+    "f1": { "featureLaps": 22, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "pescara": {
+    "f1": { "featureLaps": 18, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 87, "featureDistance": "503.991 km", "hasSprint": false }
+  }
+}

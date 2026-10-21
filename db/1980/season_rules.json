@@ -1,0 +1,44 @@
+{
+  "galvez": {
+    "f1": { "featureLaps": 53, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "red_bull_ring": {
+    "f1": { "featureLaps": 54, "featureDistance": "233.172 km", "hasSprint": false }
+  },
+  "zandvoort": {
+    "f1": { "featureLaps": 72, "featureDistance": "306.648 km", "hasSprint": false }
+  },
+  "imola": {
+    "f1": { "featureLaps": 60, "featureDistance": "294.540 km", "hasSprint": false }
+  },
+  "villeneuve": {
+    "f1": { "featureLaps": 70, "featureDistance": "305.270 km", "hasSprint": false }
+  },
+  "watkins_glen": {
+    "f1": { "featureLaps": 59, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "interlagos": {
+    "f1": { "featureLaps": 40, "featureDistance": "172.360 km", "hasSprint": false }
+  },
+  "kyalami": {
+    "f1": { "featureLaps": 78, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "long_beach": {
+    "f1": { "featureLaps": 80, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "zolder": {
+    "f1": { "featureLaps": 72, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 76, "featureDistance": "253.612 km", "hasSprint": false }
+  },
+  "ricard": {
+    "f1": { "featureLaps": 54, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "brands_hatch": {
+    "f1": { "featureLaps": 76, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "hockenheimring": {
+    "f1": { "featureLaps": 45, "featureDistance": "0.000 km", "hasSprint": false }
+  }
+}

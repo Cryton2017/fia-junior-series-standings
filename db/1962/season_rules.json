@@ -1,0 +1,29 @@
+{
+  "zandvoort": {
+    "f1": { "featureLaps": 80, "featureDistance": "340.720 km", "hasSprint": false }
+  },
+  "monaco": {
+    "f1": { "featureLaps": 100, "featureDistance": "333.700 km", "hasSprint": false }
+  },
+  "spa": {
+    "f1": { "featureLaps": 32, "featureDistance": "224.128 km", "hasSprint": false }
+  },
+  "essarts": {
+    "f1": { "featureLaps": 54, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "aintree": {
+    "f1": { "featureLaps": 75, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "nurburgring": {
+    "f1": { "featureLaps": 15, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 86, "featureDistance": "498.198 km", "hasSprint": false }
+  },
+  "watkins_glen": {
+    "f1": { "featureLaps": 100, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "george": {
+    "f1": { "featureLaps": 82, "featureDistance": "0.000 km", "hasSprint": false }
+  }
+}

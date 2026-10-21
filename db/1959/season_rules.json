@@ -1,0 +1,29 @@
+{
+  "monaco": {
+    "f1": { "featureLaps": 100, "featureDistance": "333.700 km", "hasSprint": false }
+  },
+  "indianapolis": {
+    "f1": { "featureLaps": 200, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "zandvoort": {
+    "f1": { "featureLaps": 75, "featureDistance": "319.425 km", "hasSprint": false }
+  },
+  "reims": {
+    "f1": { "featureLaps": 50, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "aintree": {
+    "f1": { "featureLaps": 75, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "avus": {
+    "f1": { "featureLaps": 60, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monsanto": {
+    "f1": { "featureLaps": 62, "featureDistance": "0.000 km", "hasSprint": false }
+  },
+  "monza": {
+    "f1": { "featureLaps": 72, "featureDistance": "417.096 km", "hasSprint": false }
+  },
+  "sebring": {
+    "f1": { "featureLaps": 42, "featureDistance": "0.000 km", "hasSprint": false }
+  }
+}
